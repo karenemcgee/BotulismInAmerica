@@ -1,4 +1,4 @@
-﻿State,Year,BotType,ToxinType,Count
+﻿state_name,record_year,BotType,ToxinType,record_count
 Alaska,1947,Foodborne,Unknown,3
 Alaska,1948,Foodborne,Unknown,4
 Alaska,1950,Foodborne,E,5
