@@ -1,0 +1,2281 @@
+,state_name,record_year,BotType,ToxinType,record_count
+0,Alaska,1947,Foodborne,Unknown,3
+1,Alaska,1948,Foodborne,Unknown,4
+2,Alaska,1950,Foodborne,E,5
+3,Alaska,1952,Foodborne,E,1
+4,Alaska,1956,Foodborne,E,5
+5,Alaska,1959,Foodborne,E,10
+6,Alaska,1960,Foodborne,E,2
+7,Alaska,1967,Foodborne,E,1
+8,Alaska,1968,Foodborne,Unknown,1
+9,Alaska,1970,Foodborne,E,1
+10,Alaska,1971,Foodborne,E,2
+11,Alaska,1973,Foodborne,B,9
+12,Alaska,1973,Foodborne,Unknown,3
+13,Alaska,1974,Foodborne,A,1
+14,Alaska,1974,Foodborne,B,2
+15,Alaska,1974,Foodborne,E,3
+16,Alaska,1974,Foodborne,Unknown,1
+17,Alaska,1975,Foodborne,A,3
+18,Alaska,1976,Foodborne,A,3
+19,Alaska,1976,Foodborne,B,2
+20,Alaska,1976,Foodborne,E,9
+21,Alaska,1977,Foodborne,A,2
+22,Alaska,1977,Foodborne,B,2
+23,Alaska,1977,Foodborne,E,7
+24,Alaska,1979,Foodborne,E,3
+25,Alaska,1980,Foodborne,E,2
+26,Alaska,1981,Foodborne,E,9
+27,Alaska,1982,Foodborne,A,3
+28,Alaska,1982,Infant,A,1
+29,Alaska,1983,Foodborne,B,1
+30,Alaska,1983,Foodborne,E,1
+31,Alaska,1984,Foodborne,B,1
+32,Alaska,1984,Foodborne,E,4
+33,Alaska,1984,Foodborne,F,1
+34,Alaska,1985,Foodborne,B,4
+35,Alaska,1985,Foodborne,E,14
+36,Alaska,1986,Foodborne,E,8
+37,Alaska,1987,Foodborne,E,1
+38,Alaska,1987,Infant,B,1
+39,Alaska,1988,Foodborne,B,2
+40,Alaska,1988,Foodborne,E,30
+41,Alaska,1989,Foodborne,E,5
+42,Alaska,1990,Foodborne,E,8
+43,Alaska,1991,Foodborne,E,20
+44,Alaska,1991,Infant,B,1
+45,Alaska,1992,Foodborne,B,1
+46,Alaska,1992,Foodborne,E,7
+47,Alaska,1992,Infant,A,1
+48,Alaska,1993,Foodborne,A,1
+49,Alaska,1993,Foodborne,B,1
+50,Alaska,1993,Foodborne,E,2
+51,Alaska,1993,Infant,A,1
+52,Alaska,1994,Foodborne,B,2
+53,Alaska,1994,Foodborne,E,9
+54,Alaska,1995,Foodborne,B,2
+55,Alaska,1995,Foodborne,E,2
+56,Alaska,1996,Foodborne,B,1
+57,Alaska,1996,Foodborne,E,8
+58,Alaska,1996,Foodborne,Unknown,1
+59,Alaska,1997,Foodborne,B,1
+60,Alaska,1997,Foodborne,E,14
+61,Alaska,1998,Foodborne,E,9
+62,Alaska,1999,Foodborne,E,12
+63,Alaska,1999,Infant,A,1
+64,Alaska,2001,Foodborne,B,1
+65,Alaska,2001,Foodborne,E,8
+66,Alaska,2002,Foodborne,E,14
+67,Alaska,2003,Foodborne,E,2
+68,Alaska,2004,Foodborne,E,1
+69,Alaska,2005,Foodborne,E,8
+70,Alaska,2006,Foodborne,E,1
+71,Alaska,2006,Foodborne,Unknown,5
+72,Alaska,2007,Foodborne,B,3
+73,Alaska,2007,Foodborne,E,7
+74,Alaska,2008,Foodborne,E,6
+75,Alaska,2008,Foodborne,Unknown,2
+76,Alaska,2009,Infant,A,1
+77,Alaska,2010,Foodborne,B,2
+78,Alaska,2010,Foodborne,E,2
+79,Alaska,2010,Foodborne,Unknown,1
+80,Alaska,2011,Foodborne,E,5
+81,Alaska,2012,Foodborne,E,3
+82,Alaska,2013,Foodborne,E,1
+83,Alaska,2014,Foodborne,E,7
+84,Alaska,2015,Foodborne,E,5
+85,Alaska,2015,Infant,A,1
+86,Alaska,2016,Foodborne,E,2
+87,Alaska,2017,Foodborne,E,4
+88,Alabama,1928,Foodborne,A,3
+89,Alabama,1942,Foodborne,Unknown,1
+90,Alabama,1962,Foodborne,Unknown,1
+91,Alabama,1963,Foodborne,E,3
+92,Alabama,1964,Foodborne,Unknown,1
+93,Alabama,1965,Foodborne,Unknown,2
+94,Alabama,1974,Foodborne,B,1
+95,Alabama,1989,Infant,A,1
+96,Alabama,1994,Infant,B,1
+97,Alabama,2000,Infant,A,2
+98,Alabama,2000,Infant,B,1
+99,Alabama,2005,Infant,B,1
+100,Alabama,2009,Infant,B,2
+101,Alabama,2015,Infant,B,1
+102,Alabama,2016,Infant,A,1
+103,Arkansas,1939,Foodborne,Unknown,2
+104,Arkansas,1961,Foodborne,Unknown,1
+105,Arkansas,1978,Infant,A,1
+106,Arkansas,1979,Infant,B,1
+107,Arkansas,1984,Infant,B,1
+108,Arkansas,1986,Foodborne,A,3
+109,Arkansas,1986,Wound,A,1
+110,Arkansas,1987,Infant,B,2
+111,Arkansas,1988,Infant,B,1
+112,Arkansas,1990,Infant,B,1
+113,Arkansas,1997,Infant,B,1
+114,Arkansas,2000,Foodborne,A,2
+115,Arkansas,2000,Infant,B,1
+116,Arkansas,2001,Foodborne,A,1
+117,Arkansas,2007,Infant,A,2
+118,Arkansas,2009,Infant,A,1
+119,Arkansas,2009,Infant,B,2
+120,Arkansas,2010,Wound,Unknown,1
+121,Arkansas,2012,Infant,B,1
+122,Arkansas,2013,Infant,B,1
+123,Arkansas,2014,Infant,A,1
+124,Arkansas,2016,Infant,B,1
+125,Arkansas,2017,Infant,B,2
+126,Arizona,1920,Foodborne,B,5
+127,Arizona,1945,Foodborne,A,4
+128,Arizona,1951,Foodborne,Unknown,1
+129,Arizona,1955,Foodborne,Unknown,1
+130,Arizona,1977,Infant,B,1
+131,Arizona,1978,Infant,A,1
+132,Arizona,1978,Infant,B,2
+133,Arizona,1980,Infant,A,1
+134,Arizona,1980,Infant,B,1
+135,Arizona,1981,Infant,A,1
+136,Arizona,1981,Infant,B,1
+137,Arizona,1982,Foodborne,A,3
+138,Arizona,1983,Foodborne,A,1
+139,Arizona,1985,Infant,B,2
+140,Arizona,1986,Infant,A,1
+141,Arizona,1986,Infant,B,2
+142,Arizona,1987,Infant,B,2
+143,Arizona,1988,Infant,B,1
+144,Arizona,1989,Infant,A,1
+145,Arizona,1989,Infant,B,1
+146,Arizona,1989,Wound,A,1
+147,Arizona,1990,Infant,B,1
+148,Arizona,1991,Infant,B,4
+149,Arizona,1992,Infant,A,2
+150,Arizona,1995,Foodborne,A,1
+151,Arizona,1995,Infant,A,1
+152,Arizona,1995,Wound,A,1
+153,Arizona,1997,Infant,A,1
+154,Arizona,1997,Infant,B,1
+155,Arizona,1997,Wound,A,1
+156,Arizona,1998,Infant,B,1
+157,Arizona,2000,Infant,B,1
+158,Arizona,2001,Foodborne,A,1
+159,Arizona,2001,Infant,A,2
+160,Arizona,2002,Infant,A,2
+161,Arizona,2002,Infant,B,1
+162,Arizona,2004,Infant,B,1
+163,Arizona,2005,Infant,A,1
+164,Arizona,2006,Infant,B,4
+165,Arizona,2006,Infant,E,1
+166,Arizona,2007,Infant,B,1
+167,Arizona,2008,Foodborne,A,1
+168,Arizona,2008,Infant,B,2
+169,Arizona,2009,Infant,A,2
+170,Arizona,2009,Infant,B,1
+171,Arizona,2011,Foodborne,A,1
+172,Arizona,2011,Infant,B,3
+173,Arizona,2011,Other,A,1
+174,Arizona,2012,Foodborne,A,12
+175,Arizona,2012,Infant,B,2
+176,Arizona,2013,Infant,B,1
+177,Arizona,2014,Foodborne,B,1
+178,Arizona,2014,Infant,A,1
+179,Arizona,2015,Infant,B,2
+180,Arizona,2015,Wound,A,1
+181,Arizona,2016,Infant,B,3
+182,Arizona,2016,Wound,A,1
+183,Arizona,2017,Infant,A,2
+184,Arizona,2017,Infant,B,3
+185,Arizona,2017,Wound,A,1
+186,California,1899,Foodborne,Unknown,1
+187,California,1902,Foodborne,Unknown,7
+188,California,1906,Foodborne,Unknown,3
+189,California,1910,Foodborne,Unknown,16
+190,California,1911,Foodborne,Unknown,1
+191,California,1912,Foodborne,Unknown,16
+192,California,1913,Foodborne,Unknown,16
+193,California,1914,Foodborne,Unknown,2
+194,California,1915,Foodborne,Unknown,8
+195,California,1916,Foodborne,A,1
+196,California,1916,Foodborne,Unknown,2
+197,California,1917,Foodborne,Unknown,10
+198,California,1918,Foodborne,A,8
+199,California,1918,Foodborne,Unknown,11
+200,California,1919,Foodborne,A,4
+201,California,1919,Foodborne,Unknown,10
+202,California,1920,Foodborne,A,11
+203,California,1920,Foodborne,Unknown,4
+204,California,1920,Other,Unknown,1
+205,California,1921,Foodborne,A,2
+206,California,1921,Foodborne,B,1
+207,California,1922,Foodborne,A,12
+208,California,1922,Foodborne,Unknown,5
+209,California,1923,Foodborne,A,1
+210,California,1923,Foodborne,Unknown,9
+211,California,1924,Foodborne,A,9
+212,California,1924,Foodborne,AB,1
+213,California,1924,Foodborne,Unknown,10
+214,California,1925,Foodborne,A,2
+215,California,1925,Foodborne,B,1
+216,California,1925,Foodborne,Unknown,5
+217,California,1926,Foodborne,Unknown,1
+218,California,1927,Foodborne,A,3
+219,California,1927,Foodborne,Unknown,1
+220,California,1928,Foodborne,A,2
+221,California,1928,Foodborne,Unknown,4
+222,California,1929,Foodborne,A,5
+223,California,1929,Foodborne,Unknown,5
+224,California,1930,Foodborne,B,5
+225,California,1930,Foodborne,Unknown,1
+226,California,1931,Foodborne,A,3
+227,California,1931,Foodborne,AB,5
+228,California,1931,Foodborne,Unknown,4
+229,California,1932,Foodborne,A,4
+230,California,1932,Foodborne,Unknown,4
+231,California,1933,Foodborne,A,7
+232,California,1933,Foodborne,Unknown,3
+233,California,1934,Foodborne,Unknown,1
+234,California,1935,Foodborne,A,16
+235,California,1935,Foodborne,Unknown,5
+236,California,1936,Foodborne,A,1
+237,California,1936,Foodborne,B,4
+238,California,1936,Foodborne,Unknown,2
+239,California,1937,Foodborne,A,2
+240,California,1937,Foodborne,Unknown,11
+241,California,1938,Foodborne,Unknown,15
+242,California,1939,Foodborne,Unknown,14
+243,California,1940,Foodborne,A,10
+244,California,1940,Foodborne,Unknown,2
+245,California,1941,Foodborne,A,14
+246,California,1941,Foodborne,E,3
+247,California,1942,Foodborne,A,6
+248,California,1942,Foodborne,Unknown,10
+249,California,1943,Foodborne,A,4
+250,California,1943,Foodborne,Unknown,7
+251,California,1944,Foodborne,A,7
+252,California,1944,Foodborne,Unknown,4
+253,California,1945,Foodborne,A,12
+254,California,1945,Foodborne,Unknown,10
+255,California,1946,Foodborne,A,3
+256,California,1946,Foodborne,Unknown,2
+257,California,1947,Foodborne,B,3
+258,California,1947,Foodborne,Unknown,3
+259,California,1948,Foodborne,A,2
+260,California,1948,Foodborne,Unknown,4
+261,California,1949,Foodborne,A,2
+262,California,1950,Foodborne,Unknown,7
+263,California,1951,Foodborne,A,3
+264,California,1951,Foodborne,Unknown,9
+265,California,1951,Wound,A,1
+266,California,1952,Foodborne,A,3
+267,California,1952,Foodborne,Unknown,7
+268,California,1953,Foodborne,A,1
+269,California,1953,Foodborne,B,1
+270,California,1954,Foodborne,A,6
+271,California,1955,Foodborne,B,2
+272,California,1955,Foodborne,Unknown,1
+273,California,1956,Foodborne,A,4
+274,California,1956,Foodborne,Unknown,3
+275,California,1957,Foodborne,A,5
+276,California,1958,Foodborne,Unknown,1
+277,California,1959,Foodborne,A,1
+278,California,1959,Foodborne,Unknown,2
+279,California,1962,Foodborne,Unknown,2
+280,California,1963,Foodborne,A,2
+281,California,1963,Foodborne,Unknown,8
+282,California,1964,Foodborne,Unknown,7
+283,California,1965,Foodborne,A,2
+284,California,1966,Foodborne,F,3
+285,California,1966,Foodborne,Unknown,2
+286,California,1968,Foodborne,A,1
+287,California,1968,Foodborne,Unknown,3
+288,California,1968,Wound,Unknown,1
+289,California,1969,Foodborne,Unknown,2
+290,California,1970,Foodborne,A,2
+291,California,1971,Foodborne,A,5
+292,California,1971,Foodborne,B,2
+293,California,1971,Foodborne,Unknown,4
+294,California,1971,Wound,A,1
+295,California,1972,Foodborne,A,18
+296,California,1973,Foodborne,A,4
+297,California,1974,Foodborne,A,1
+298,California,1974,Foodborne,B,2
+299,California,1974,Wound,B,1
+300,California,1974,Wound,Unknown,1
+301,California,1975,Foodborne,A,5
+302,California,1975,Foodborne,Unknown,1
+303,California,1976,Foodborne,A,6
+304,California,1976,Foodborne,B,2
+305,California,1976,Infant,A,5
+306,California,1976,Infant,B,6
+307,California,1977,Foodborne,A,5
+308,California,1977,Infant,A,18
+309,California,1977,Infant,B,7
+310,California,1978,Foodborne,A,3
+311,California,1978,Infant,A,7
+312,California,1978,Infant,B,6
+313,California,1978,Other,A,2
+314,California,1978,Other,Unknown,4
+315,California,1979,Foodborne,A,1
+316,California,1979,Infant,A,8
+317,California,1979,Infant,B,1
+318,California,1979,Other,A,2
+319,California,1979,Wound,AB,1
+320,California,1980,Foodborne,A,4
+321,California,1980,Infant,A,15
+322,California,1980,Infant,B,15
+323,California,1980,Wound,A,1
+324,California,1981,Foodborne,B,7
+325,California,1981,Infant,A,27
+326,California,1981,Infant,B,13
+327,California,1981,Wound,A,3
+328,California,1982,Foodborne,A,11
+329,California,1982,Infant,A,21
+330,California,1982,Infant,B,8
+331,California,1982,Wound,A,1
+332,California,1983,Foodborne,A,1
+333,California,1983,Infant,A,21
+334,California,1983,Infant,B,13
+335,California,1983,Other,Unknown,1
+336,California,1984,Foodborne,A,7
+337,California,1984,Infant,A,22
+338,California,1984,Infant,B,26
+339,California,1984,Wound,A,1
+340,California,1984,Wound,B,1
+341,California,1985,Foodborne,A,2
+342,California,1985,Infant,A,23
+343,California,1985,Infant,B,20
+344,California,1986,Foodborne,A,3
+345,California,1986,Foodborne,B,2
+346,California,1986,Foodborne,F,1
+347,California,1986,Infant,A,27
+348,California,1986,Infant,B,13
+349,California,1987,Foodborne,A,4
+350,California,1987,Infant,A,25
+351,California,1987,Infant,B,18
+352,California,1987,Wound,A,1
+353,California,1988,Foodborne,A,1
+354,California,1988,Infant,A,19
+355,California,1988,Infant,B,14
+356,California,1988,Wound,A,2
+357,California,1989,Foodborne,A,1
+358,California,1989,Infant,A,18
+359,California,1989,Infant,B,17
+360,California,1989,Wound,A,1
+361,California,1989,Wound,Unknown,1
+362,California,1990,Foodborne,A,3
+363,California,1990,Infant,A,22
+364,California,1990,Infant,B,7
+365,California,1990,Wound,A,3
+366,California,1991,Foodborne,B,1
+367,California,1991,Infant,A,33
+368,California,1991,Infant,B,16
+369,California,1991,Wound,A,2
+370,California,1992,Foodborne,A,2
+371,California,1992,Infant,A,23
+372,California,1992,Infant,B,14
+373,California,1992,Other,A,1
+374,California,1992,Wound,A,3
+375,California,1993,Foodborne,A,1
+376,California,1993,Foodborne,Unknown,2
+377,California,1993,Infant,A,19
+378,California,1993,Infant,B,10
+379,California,1993,Wound,A,3
+380,California,1993,Wound,B,1
+381,California,1994,Foodborne,A,6
+382,California,1994,Infant,A,16
+383,California,1994,Infant,B,15
+384,California,1994,Wound,A,9
+385,California,1994,Wound,B,2
+386,California,1995,Foodborne,A,3
+387,California,1995,Infant,A,24
+388,California,1995,Infant,B,13
+389,California,1995,Wound,A,20
+390,California,1995,Wound,B,2
+391,California,1995,Wound,Unknown,1
+392,California,1996,Foodborne,A,2
+393,California,1996,Foodborne,B,1
+394,California,1996,Infant,A,26
+395,California,1996,Infant,B,9
+396,California,1996,Wound,A,13
+397,California,1996,Wound,B,1
+398,California,1997,Foodborne,A,2
+399,California,1997,Foodborne,E,1
+400,California,1997,Infant,A,22
+401,California,1997,Infant,B,7
+402,California,1997,Wound,A,14
+403,California,1997,Wound,B,3
+404,California,1998,Foodborne,A,5
+405,California,1998,Foodborne,B,1
+406,California,1998,Infant,A,17
+407,California,1998,Infant,B,2
+408,California,1998,Wound,A,27
+409,California,1998,Wound,B,2
+410,California,1999,Foodborne,A,4
+411,California,1999,Infant,A,17
+412,California,1999,Infant,B,9
+413,California,1999,Wound,A,33
+414,California,1999,Wound,B,3
+415,California,1999,Wound,Unknown,1
+416,California,2000,Foodborne,A,3
+417,California,2000,Infant,A,17
+418,California,2000,Infant,B,10
+419,California,2000,Other,A,2
+420,California,2000,Wound,A,13
+421,California,2001,Foodborne,A,1
+422,California,2001,Foodborne,E,2
+423,California,2001,Foodborne,F,1
+424,California,2001,Infant,A,21
+425,California,2001,Infant,B,10
+426,California,2001,Wound,A,19
+427,California,2001,Wound,B,1
+428,California,2002,Infant,A,10
+429,California,2002,Infant,B,11
+430,California,2002,Wound,A,17
+431,California,2002,Wound,B,1
+432,California,2002,Wound,Unknown,1
+433,California,2003,Foodborne,A,1
+434,California,2003,Foodborne,F,1
+435,California,2003,Infant,A,16
+436,California,2003,Infant,B,14
+437,California,2003,Infant,F,1
+438,California,2003,Wound,A,20
+439,California,2003,Wound,Unknown,1
+440,California,2004,Foodborne,A,6
+441,California,2004,Infant,A,22
+442,California,2004,Infant,B,15
+443,California,2004,Wound,A,19
+444,California,2004,Wound,B,1
+445,California,2004,Wound,Unknown,1
+446,California,2005,Foodborne,A,3
+447,California,2005,Infant,A,25
+448,California,2005,Infant,B,17
+449,California,2005,Wound,A,21
+450,California,2005,Wound,B,2
+451,California,2005,Wound,Unknown,1
+452,California,2006,Foodborne,A,6
+453,California,2006,Infant,A,28
+454,California,2006,Infant,B,15
+455,California,2006,Wound,A,40
+456,California,2006,Wound,B,1
+457,California,2007,Foodborne,A,1
+458,California,2007,Infant,A,24
+459,California,2007,Infant,B,12
+460,California,2007,Other,F,1
+461,California,2007,Wound,A,16
+462,California,2007,Wound,AB,1
+463,California,2007,Wound,B,2
+464,California,2007,Wound,Unknown,1
+465,California,2008,Foodborne,A,3
+466,California,2008,Infant,A,25
+467,California,2008,Infant,B,10
+468,California,2008,Wound,A,20
+469,California,2009,Foodborne,A,4
+470,California,2009,Infant,A,9
+471,California,2009,Infant,B,9
+472,California,2009,Infant,Ba,1
+473,California,2009,Infant,Bf,1
+474,California,2009,Wound,A,16
+475,California,2009,Wound,Unknown,2
+476,California,2010,Foodborne,A,1
+477,California,2010,Infant,A,11
+478,California,2010,Infant,B,8
+479,California,2010,Infant,F,1
+480,California,2010,Wound,A,15
+481,California,2010,Wound,B,1
+482,California,2011,Foodborne,A,1
+483,California,2011,Infant,A,19
+484,California,2011,Infant,B,9
+485,California,2011,Infant,Ba,1
+486,California,2011,Other,A,3
+487,California,2011,Wound,A,9
+488,California,2012,Foodborne,B,1
+489,California,2012,Infant,A,24
+490,California,2012,Infant,B,10
+491,California,2012,Infant,Ba,1
+492,California,2012,Infant,Bf,1
+493,California,2012,Other,A,1
+494,California,2012,Other,EF,1
+495,California,2012,Wound,A,5
+496,California,2012,Wound,B,1
+497,California,2013,Infant,A,29
+498,California,2013,Infant,B,15
+499,California,2013,Infant,Bf,1
+500,California,2013,Infant,F,1
+501,California,2013,Other,A,1
+502,California,2013,Wound,A,9
+503,California,2013,Wound,ABE,2
+504,California,2014,Infant,A,35
+505,California,2014,Infant,B,14
+506,California,2014,Other,A,1
+507,California,2014,Wound,A,14
+508,California,2014,Wound,ABE,1
+509,California,2015,Infant,A,23
+510,California,2015,Infant,B,14
+511,California,2015,Other,A,2
+512,California,2015,Wound,A,11
+513,California,2016,Foodborne,A,3
+514,California,2016,Infant,A,34
+515,California,2016,Infant,Ab,1
+516,California,2016,Infant,B,11
+517,California,2016,Infant,Bf,1
+518,California,2016,Other,A,1
+519,California,2016,Wound,A,14
+520,California,2016,Wound,B,1
+521,California,2017,Foodborne,A,15
+522,California,2017,Infant,A,27
+523,California,2017,Infant,B,20
+524,California,2017,Infant,Ba,1
+525,California,2017,Other,A,2
+526,California,2017,Other,B,1
+527,California,2017,Wound,A,15
+528,California,2017,Wound,ABE,1
+529,Colorado,1912,Foodborne,Unknown,7
+530,Colorado,1913,Foodborne,Unknown,5
+531,Colorado,1915,Foodborne,Unknown,5
+532,Colorado,1921,Foodborne,Unknown,5
+533,Colorado,1924,Foodborne,A,7
+534,Colorado,1925,Foodborne,B,5
+535,Colorado,1927,Foodborne,Unknown,3
+536,Colorado,1929,Foodborne,A,1
+537,Colorado,1929,Foodborne,Unknown,5
+538,Colorado,1930,Foodborne,Unknown,7
+539,Colorado,1931,Foodborne,A,4
+540,Colorado,1932,Foodborne,A,1
+541,Colorado,1932,Foodborne,Unknown,2
+542,Colorado,1933,Foodborne,Unknown,1
+543,Colorado,1934,Foodborne,Unknown,3
+544,Colorado,1935,Foodborne,A,5
+545,Colorado,1935,Foodborne,Unknown,3
+546,Colorado,1936,Foodborne,Unknown,1
+547,Colorado,1937,Foodborne,A,3
+548,Colorado,1938,Foodborne,Unknown,1
+549,Colorado,1940,Foodborne,Unknown,4
+550,Colorado,1941,Foodborne,Unknown,1
+551,Colorado,1942,Foodborne,Unknown,11
+552,Colorado,1944,Foodborne,Unknown,1
+553,Colorado,1947,Foodborne,Unknown,2
+554,Colorado,1948,Foodborne,A,5
+555,Colorado,1950,Foodborne,Unknown,3
+556,Colorado,1951,Foodborne,Unknown,1
+557,Colorado,1952,Foodborne,Unknown,1
+558,Colorado,1953,Foodborne,Unknown,6
+559,Colorado,1954,Foodborne,Unknown,2
+560,Colorado,1955,Foodborne,A,5
+561,Colorado,1956,Foodborne,Unknown,6
+562,Colorado,1957,Foodborne,Unknown,1
+563,Colorado,1959,Foodborne,A,1
+564,Colorado,1959,Foodborne,Unknown,1
+565,Colorado,1962,Foodborne,Unknown,3
+566,Colorado,1963,Foodborne,A,2
+567,Colorado,1967,Foodborne,Unknown,1
+568,Colorado,1969,Foodborne,A,6
+569,Colorado,1969,Foodborne,B,1
+570,Colorado,1970,Foodborne,A,1
+571,Colorado,1972,Foodborne,A,1
+572,Colorado,1977,Foodborne,A,1
+573,Colorado,1977,Infant,B,1
+574,Colorado,1978,Foodborne,A,8
+575,Colorado,1978,Foodborne,B,1
+576,Colorado,1980,Foodborne,A,1
+577,Colorado,1980,Infant,A,1
+578,Colorado,1981,Foodborne,A,1
+579,Colorado,1981,Infant,A,2
+580,Colorado,1982,Foodborne,A,1
+581,Colorado,1982,Infant,B,1
+582,Colorado,1983,Foodborne,A,2
+583,Colorado,1984,Infant,A,1
+584,Colorado,1986,Infant,A,1
+585,Colorado,1987,Infant,A,1
+586,Colorado,1988,Foodborne,A,1
+587,Colorado,1990,Infant,A,1
+588,Colorado,1991,Infant,A,2
+589,Colorado,1992,Foodborne,A,2
+590,Colorado,1992,Infant,A,1
+591,Colorado,1993,Infant,A,1
+592,Colorado,1994,Infant,A,1
+593,Colorado,1995,Foodborne,A,1
+594,Colorado,1996,Foodborne,A,1
+595,Colorado,1996,Infant,A,2
+596,Colorado,1998,Infant,A,1
+597,Colorado,1999,Infant,A,2
+598,Colorado,1999,Wound,A,1
+599,Colorado,2002,Infant,A,2
+600,Colorado,2002,Infant,B,1
+601,Colorado,2003,Foodborne,A,1
+602,Colorado,2003,Infant,A,1
+603,Colorado,2003,Wound,A,1
+604,Colorado,2005,Infant,A,1
+605,Colorado,2006,Infant,B,1
+606,Colorado,2007,Infant,A,1
+607,Colorado,2007,Infant,B,1
+608,Colorado,2008,Infant,A,2
+609,Colorado,2008,Infant,F,1
+610,Colorado,2009,Infant,A,1
+611,Colorado,2010,Foodborne,A,1
+612,Colorado,2010,Infant,A,2
+613,Colorado,2010,Infant,B,1
+614,Colorado,2011,Infant,A,2
+615,Colorado,2011,Infant,B,1
+616,Colorado,2011,Wound,A,1
+617,Colorado,2012,Infant,B,1
+618,Colorado,2013,Infant,A,2
+619,Colorado,2013,Infant,B,1
+620,Colorado,2013,Infant,F,1
+621,Colorado,2014,Foodborne,B,1
+622,Colorado,2014,Infant,A,3
+623,Colorado,2014,Infant,B,2
+624,Colorado,2015,Infant,A,3
+625,Colorado,2016,Infant,A,2
+626,Colorado,2016,Wound,A,1
+627,Connecticut,1933,Foodborne,A,1
+628,Connecticut,1933,Foodborne,Unknown,4
+629,Connecticut,1942,Foodborne,Unknown,2
+630,Connecticut,1947,Foodborne,B,2
+631,Connecticut,1976,Foodborne,B,1
+632,Connecticut,1980,Other,A,1
+633,Connecticut,1983,Infant,B,1
+634,Connecticut,1987,Infant,A,1
+635,Connecticut,1987,Infant,B,1
+636,Connecticut,1988,Infant,B,1
+637,Connecticut,1990,Infant,B,1
+638,Connecticut,1994,Infant,B,1
+639,Connecticut,1996,Infant,Unknown,1
+640,Connecticut,1998,Foodborne,A,1
+641,Connecticut,2002,Infant,B,1
+642,Connecticut,2003,Infant,B,1
+643,Connecticut,2007,Infant,B,1
+644,Connecticut,2008,Infant,B,2
+645,Connecticut,2012,Infant,B,1
+646,Connecticut,2016,Infant,B,1
+647,,1946,Foodborne,Unknown,3
+648,,1982,Infant,B,1
+649,,1986,Infant,B,1
+650,,1987,Infant,A,1
+651,,1987,Infant,B,1
+652,,1988,Infant,B,1
+653,,1990,Infant,B,2
+654,,1992,Foodborne,F,1
+655,,2004,Infant,B,1
+656,,2008,Infant,B,1
+657,,2011,Infant,B,1
+658,,2012,Infant,A,1
+659,,2014,Infant,B,1
+660,,2016,Infant,B,1
+661,,2017,Infant,B,1
+662,Delaware,1978,Infant,B,1
+663,Delaware,1980,Infant,B,1
+664,Delaware,1981,Infant,B,1
+665,Delaware,1982,Infant,B,2
+666,Delaware,1983,Infant,B,1
+667,Delaware,1984,Infant,B,1
+668,Delaware,1986,Infant,B,4
+669,Delaware,1987,Infant,B,1
+670,Delaware,1988,Infant,B,2
+671,Delaware,1992,Infant,A,1
+672,Delaware,1992,Infant,Unknown,1
+673,Delaware,1993,Infant,B,1
+674,Delaware,1994,Infant,B,1
+675,Delaware,1995,Infant,B,2
+676,Delaware,1998,Infant,B,2
+677,Delaware,2000,Infant,B,2
+678,Delaware,2001,Infant,B,6
+679,Delaware,2002,Infant,B,2
+680,Delaware,2003,Infant,B,3
+681,Delaware,2004,Infant,B,2
+682,Delaware,2005,Infant,B,2
+683,Delaware,2007,Infant,B,3
+684,Delaware,2008,Infant,B,1
+685,Delaware,2009,Infant,B,2
+686,Delaware,2010,Infant,B,3
+687,Delaware,2011,Infant,B,2
+688,Delaware,2012,Foodborne,B,1
+689,Delaware,2013,Infant,B,3
+690,Delaware,2014,Infant,B,4
+691,Delaware,2015,Infant,B,2
+692,Delaware,2016,Infant,B,5
+693,Delaware,2017,Infant,B,2
+694,Florida,1916,Foodborne,Unknown,7
+695,Florida,1961,Foodborne,Unknown,1
+696,Florida,1975,Foodborne,B,1
+697,Florida,1981,Other,F,1
+698,Florida,1982,Infant,A,1
+699,Florida,1987,Foodborne,A,4
+700,Florida,1988,Foodborne,A,1
+701,Florida,1999,Foodborne,A,4
+702,Florida,2004,Infant,A,1
+703,Florida,2004,Other,A,4
+704,Florida,2005,Infant,A,1
+705,Florida,2006,Foodborne,A,1
+706,Florida,2006,Infant,A,1
+707,Florida,2007,Infant,A,1
+708,Florida,2008,Infant,A,1
+709,Florida,2009,Infant,A,1
+710,Florida,2010,Infant,A,1
+711,Florida,2012,Infant,B,1
+712,Florida,2015,Other,A,1
+713,Florida,2016,Other,A,1
+714,Florida,2017,Infant,A,1
+715,Georgia,1943,Foodborne,Unknown,1
+716,Georgia,1964,Foodborne,Unknown,1
+717,Georgia,1974,Foodborne,A,2
+718,Georgia,1977,Foodborne,E,1
+719,Georgia,1978,Foodborne,A,1
+720,Georgia,1978,Infant,B,1
+721,Georgia,1991,Infant,B,1
+722,Georgia,1993,Foodborne,A,4
+723,Georgia,1993,Infant,A,1
+724,Georgia,1997,Infant,B,1
+725,Georgia,1998,Infant,A,1
+726,Georgia,1998,Infant,B,1
+727,Georgia,1999,Infant,A,3
+728,Georgia,1999,Infant,B,1
+729,Georgia,2001,Infant,A,1
+730,Georgia,2001,Infant,B,1
+731,Georgia,2006,Foodborne,A,3
+732,Georgia,2010,Infant,A,1
+733,Georgia,2011,Foodborne,A,1
+734,Georgia,2014,Infant,A,1
+735,Georgia,2014,Infant,B,1
+736,Georgia,2016,Infant,A,1
+737,Georgia,2016,Other,F,1
+738,Georgia,2017,Infant,A,1
+739,Georgia,2017,Infant,B,1
+740,Hawaii,1981,Foodborne,B,1
+741,Hawaii,1981,Infant,A,1
+742,Hawaii,1981,Infant,B,1
+743,Hawaii,1982,Infant,B,4
+744,Hawaii,1983,Infant,B,4
+745,Hawaii,1984,Infant,AB,1
+746,Hawaii,1984,Infant,B,2
+747,Hawaii,1985,Infant,B,1
+748,Hawaii,1986,Infant,B,2
+749,Hawaii,1987,Foodborne,B,1
+750,Hawaii,1987,Infant,B,3
+751,Hawaii,1987,Wound,B,1
+752,Hawaii,1988,Foodborne,B,1
+753,Hawaii,1988,Infant,A,1
+754,Hawaii,1988,Infant,B,4
+755,Hawaii,1989,Infant,B,1
+756,Hawaii,1990,Foodborne,B,4
+757,Hawaii,1990,Infant,B,1
+758,Hawaii,1992,Infant,B,3
+759,Hawaii,1993,Infant,B,1
+760,Hawaii,1994,Infant,B,2
+761,Hawaii,1995,Infant,B,3
+762,Hawaii,1996,Infant,B,2
+763,Hawaii,1997,Infant,B,2
+764,Hawaii,2000,Infant,B,2
+765,Hawaii,2001,Infant,B,2
+766,Hawaii,2002,Infant,B,1
+767,Hawaii,2003,Infant,B,1
+768,Hawaii,2004,Infant,B,1
+769,Hawaii,2008,Infant,A,1
+770,Hawaii,2008,Infant,B,1
+771,Hawaii,2009,Infant,A,1
+772,Hawaii,2009,Infant,B,2
+773,Hawaii,2010,Infant,B,1
+774,Hawaii,2015,Infant,B,1
+775,Hawaii,2016,Infant,B,2
+776,Hawaii,2016,Wound,B,1
+777,Iowa,1919,Foodborne,Unknown,5
+778,Iowa,1948,Wound,A,1
+779,Iowa,1974,Foodborne,A,2
+780,Iowa,1984,Infant,B,1
+781,Iowa,1999,Foodborne,A,1
+782,Iowa,2004,Infant,F,1
+783,Iowa,2006,Infant,F,1
+784,Iowa,2007,Infant,A,1
+785,Iowa,2013,Infant,A,1
+786,Iowa,2013,Infant,B,1
+787,Iowa,2013,Infant,F,1
+788,Iowa,2015,Infant,A,1
+789,Iowa,2015,Infant,B,1
+790,Idaho,1918,Foodborne,A,4
+791,Idaho,1932,Foodborne,Unknown,3
+792,Idaho,1932,Other,Unknown,1
+793,Idaho,1935,Foodborne,A,1
+794,Idaho,1939,Foodborne,Unknown,2
+795,Idaho,1959,Foodborne,Unknown,6
+796,Idaho,1961,Foodborne,Unknown,3
+797,Idaho,1965,Foodborne,Unknown,3
+798,Idaho,1969,Foodborne,Unknown,2
+799,Idaho,1972,Wound,A,1
+800,Idaho,1973,Foodborne,A,1
+801,Idaho,1974,Foodborne,A,1
+802,Idaho,1974,Wound,A,1
+803,Idaho,1977,Foodborne,A,1
+804,Idaho,1980,Infant,A,2
+805,Idaho,1981,Foodborne,A,1
+806,Idaho,1981,Infant,A,1
+807,Idaho,1985,Infant,A,1
+808,Idaho,1986,Infant,A,1
+809,Idaho,1987,Infant,A,3
+810,Idaho,1989,Infant,A,1
+811,Idaho,1989,Infant,B,1
+812,Idaho,1994,Infant,Unknown,2
+813,Idaho,1995,Foodborne,A,6
+814,Idaho,1996,Foodborne,B,1
+815,Idaho,1997,Infant,A,2
+816,Idaho,1998,Infant,A,1
+817,Idaho,1999,Infant,A,1
+818,Idaho,2004,Infant,A,1
+819,Idaho,2005,Infant,A,1
+820,Idaho,2008,Infant,B,1
+821,Idaho,2010,Infant,A,1
+822,Idaho,2011,Infant,A,1
+823,Idaho,2011,Infant,B,1
+824,Idaho,2012,Infant,A,2
+825,Idaho,2013,Infant,A,1
+826,Idaho,2015,Infant,A,2
+827,Idaho,2016,Infant,A,1
+828,Idaho,2016,Infant,B,1
+829,Idaho,2016,Infant,F,1
+830,Idaho,2017,Infant,A,3
+831,Illinois,1915,Foodborne,Unknown,4
+832,Illinois,1925,Foodborne,Unknown,2
+833,Illinois,1929,Foodborne,B,2
+834,Illinois,1941,Foodborne,Unknown,1
+835,Illinois,1944,Foodborne,Unknown,1
+836,Illinois,1953,Foodborne,Unknown,4
+837,Illinois,1956,Foodborne,Unknown,1
+838,Illinois,1959,Foodborne,Unknown,1
+839,Illinois,1967,Foodborne,E,3
+840,Illinois,1969,Foodborne,A,1
+841,Illinois,1970,Foodborne,A,4
+842,Illinois,1975,Foodborne,B,1
+843,Illinois,1981,Infant,A,1
+844,Illinois,1983,Foodborne,A,29
+845,Illinois,1983,Infant,A,1
+846,Illinois,1983,Infant,B,1
+847,Illinois,1983,Other,Unknown,1
+848,Illinois,1985,Foodborne,B,1
+849,Illinois,1987,Infant,B,1
+850,Illinois,1991,Foodborne,A,1
+851,Illinois,1994,Foodborne,A,1
+852,Illinois,1994,Infant,A,1
+853,Illinois,1994,Infant,B,1
+854,Illinois,1997,Foodborne,B,1
+855,Illinois,1998,Infant,A,1
+856,Illinois,1998,Infant,B,2
+857,Illinois,2000,Infant,B,2
+858,Illinois,2002,Infant,B,1
+859,Illinois,2005,Infant,A,1
+860,Illinois,2005,Other,F,1
+861,Illinois,2006,Foodborne,B,1
+862,Illinois,2006,Infant,B,1
+863,Illinois,2007,Infant,E,1
+864,Illinois,2008,Infant,A,1
+865,Illinois,2012,Infant,A,1
+866,Illinois,2013,Infant,A,1
+867,Illinois,2014,Foodborne,A,1
+868,Illinois,2015,Foodborne,A,2
+869,Indiana,1918,Foodborne,B,7
+870,Indiana,1921,Foodborne,A,2
+871,Indiana,1922,Foodborne,A,9
+872,Indiana,1954,Foodborne,Unknown,2
+873,Indiana,1966,Foodborne,A,2
+874,Indiana,1969,Foodborne,Unknown,1
+875,Indiana,1984,Infant,B,1
+876,Indiana,1989,Infant,A,1
+877,Indiana,1989,Infant,B,1
+878,Indiana,1990,Infant,B,3
+879,Indiana,1990,Wound,B,1
+880,Indiana,1993,Infant,A,1
+881,Indiana,1994,Infant,B,1
+882,Indiana,1999,Foodborne,A,1
+883,Indiana,2000,Infant,A,1
+884,Indiana,2002,Infant,B,1
+885,Indiana,2003,Infant,B,1
+886,Indiana,2007,Foodborne,A,3
+887,Indiana,2008,Foodborne,A,1
+888,Indiana,2011,Infant,A,1
+889,Indiana,2014,Infant,B,1
+890,Indiana,2017,Infant,B,1
+891,Kansas,1964,Foodborne,A,7
+892,Kansas,1970,Foodborne,A,1
+893,Kansas,1978,Other,A,1
+894,Kansas,1980,Infant,A,1
+895,Kansas,1982,Infant,B,1
+896,Kansas,1984,Infant,A,1
+897,Kansas,1988,Infant,A,1
+898,Kansas,1988,Infant,B,1
+899,Kansas,1991,Infant,A,1
+900,Kansas,1991,Wound,A,1
+901,Kansas,1995,Foodborne,A,1
+902,Kansas,1996,Infant,A,1
+903,Kansas,2002,Infant,A,1
+904,Kansas,2004,Infant,B,1
+905,Kansas,2009,Infant,B,1
+906,Kansas,2011,Infant,B,1
+907,Kansas,2012,Wound,A,1
+908,Kansas,2013,Infant,B,1
+909,Kansas,2015,Infant,A,1
+910,Kansas,2017,Infant,A,1
+911,Kansas,2017,Infant,B,1
+912,Kentucky,1935,Foodborne,Unknown,2
+913,Kentucky,1936,Foodborne,Unknown,4
+914,Kentucky,1937,Foodborne,Unknown,3
+915,Kentucky,1938,Foodborne,B,2
+916,Kentucky,1947,Foodborne,Unknown,4
+917,Kentucky,1949,Foodborne,Unknown,7
+918,Kentucky,1951,Foodborne,Unknown,3
+919,Kentucky,1953,Foodborne,Unknown,1
+920,Kentucky,1954,Foodborne,Unknown,1
+921,Kentucky,1956,Foodborne,Unknown,4
+922,Kentucky,1957,Foodborne,Unknown,1
+923,Kentucky,1958,Foodborne,Unknown,3
+924,Kentucky,1960,Foodborne,Unknown,2
+925,Kentucky,1962,Foodborne,Unknown,1
+926,Kentucky,1963,Foodborne,B,5
+927,Kentucky,1963,Foodborne,E,2
+928,Kentucky,1964,Foodborne,B,4
+929,Kentucky,1964,Foodborne,Unknown,2
+930,Kentucky,1965,Foodborne,Unknown,5
+931,Kentucky,1969,Foodborne,B,1
+932,Kentucky,1973,Foodborne,B,3
+933,Kentucky,1979,Foodborne,B,2
+934,Kentucky,1979,Infant,B,1
+935,Kentucky,1980,Foodborne,B,1
+936,Kentucky,1983,Foodborne,B,1
+937,Kentucky,1983,Infant,B,3
+938,Kentucky,1984,Foodborne,A,1
+939,Kentucky,1984,Infant,B,1
+940,Kentucky,1985,Infant,B,1
+941,Kentucky,1987,Foodborne,A,1
+942,Kentucky,1987,Infant,A,1
+943,Kentucky,1988,Infant,Unknown,1
+944,Kentucky,1989,Wound,B,1
+945,Kentucky,1990,Infant,B,2
+946,Kentucky,1992,Infant,B,1
+947,Kentucky,1993,Foodborne,A,1
+948,Kentucky,1994,Infant,B,1
+949,Kentucky,1995,Infant,B,1
+950,Kentucky,1996,Infant,B,3
+951,Kentucky,1998,Infant,B,2
+952,Kentucky,1998,Infant,Unknown,1
+953,Kentucky,1999,Infant,B,3
+954,Kentucky,2000,Infant,B,2
+955,Kentucky,2001,Infant,A,1
+956,Kentucky,2001,Infant,B,4
+957,Kentucky,2002,Infant,B,1
+958,Kentucky,2004,Infant,B,1
+959,Kentucky,2005,Infant,B,1
+960,Kentucky,2007,Infant,B,1
+961,Kentucky,2010,Other,Unknown,1
+962,Kentucky,2011,Infant,B,2
+963,Kentucky,2012,Infant,B,4
+964,Kentucky,2013,Infant,A,1
+965,Kentucky,2013,Infant,B,1
+966,Kentucky,2014,Infant,B,1
+967,Kentucky,2015,Infant,B,1
+968,Kentucky,2016,Infant,B,4
+969,Kentucky,2017,Infant,B,7
+970,Louisiana,1952,Foodborne,Unknown,1
+971,Louisiana,1953,Foodborne,Unknown,1
+972,Louisiana,1955,Foodborne,Unknown,1
+973,Louisiana,1961,Foodborne,Unknown,1
+974,Louisiana,1984,Foodborne,A,1
+975,Louisiana,1984,Infant,A,2
+976,Louisiana,1984,Infant,B,1
+977,Louisiana,1985,Infant,A,1
+978,Louisiana,1985,Infant,B,1
+979,Louisiana,1989,Infant,B,1
+980,Louisiana,1990,Foodborne,B,1
+981,Louisiana,1992,Infant,B,1
+982,Louisiana,1995,Infant,B,1
+983,Louisiana,1996,Infant,A,2
+984,Louisiana,1997,Infant,A,1
+985,Louisiana,1999,Infant,B,1
+986,Louisiana,2001,Foodborne,B,1
+987,Louisiana,2003,Infant,B,1
+988,Louisiana,2005,Infant,B,1
+989,Louisiana,2009,Infant,B,1
+990,Louisiana,2013,Infant,B,3
+991,Louisiana,2014,Infant,A,1
+992,Louisiana,2015,Infant,A,1
+993,Louisiana,2015,Infant,B,1
+994,Louisiana,2017,Infant,B,1
+995,Massachusetts,1912,Foodborne,Unknown,4
+996,Massachusetts,1913,Foodborne,Unknown,1
+997,Massachusetts,1916,Foodborne,Unknown,1
+998,Massachusetts,1938,Foodborne,Unknown,2
+999,Massachusetts,1962,Foodborne,Unknown,1
+1000,Massachusetts,1974,Foodborne,B,1
+1001,Massachusetts,1979,Other,B,1
+1002,Massachusetts,1982,Foodborne,B,1
+1003,Massachusetts,1983,Infant,B,1
+1004,Massachusetts,1984,Infant,B,1
+1005,Massachusetts,1985,Infant,B,1
+1006,Massachusetts,1986,Infant,A,1
+1007,Massachusetts,1987,Infant,A,1
+1008,Massachusetts,1991,Infant,B,1
+1009,Massachusetts,1994,Infant,A,2
+1010,Massachusetts,1994,Infant,B,1
+1011,Massachusetts,1995,Foodborne,B,1
+1012,Massachusetts,1999,Infant,B,1
+1013,Massachusetts,2005,Foodborne,A,1
+1014,Massachusetts,2006,Infant,B,1
+1015,Massachusetts,2008,Infant,A,1
+1016,Massachusetts,2010,Infant,B,1
+1017,Massachusetts,2011,Infant,B,1
+1018,Massachusetts,2012,Infant,F,1
+1019,Massachusetts,2013,Other,F,1
+1020,Massachusetts,2017,Infant,B,1
+1021,Maryland,1947,Foodborne,B,4
+1022,Maryland,1954,Foodborne,Unknown,1
+1023,Maryland,1956,Foodborne,Unknown,2
+1024,Maryland,1957,Foodborne,Unknown,2
+1025,Maryland,1964,Foodborne,Unknown,1
+1026,Maryland,1965,Foodborne,Unknown,1
+1027,Maryland,1966,Foodborne,B,3
+1028,Maryland,1971,Foodborne,A,1
+1029,Maryland,1973,Foodborne,Unknown,2
+1030,Maryland,1976,Wound,B,1
+1031,Maryland,1978,Infant,B,1
+1032,Maryland,1978,Other,B,1
+1033,Maryland,1981,Infant,B,2
+1034,Maryland,1983,Foodborne,B,1
+1035,Maryland,1984,Infant,B,1
+1036,Maryland,1985,Other,A,1
+1037,Maryland,1988,Foodborne,A,1
+1038,Maryland,1988,Infant,A,1
+1039,Maryland,1989,Infant,B,1
+1040,Maryland,1990,Infant,B,6
+1041,Maryland,1991,Infant,B,1
+1042,Maryland,1992,Infant,B,1
+1043,Maryland,1993,Infant,B,1
+1044,Maryland,1995,Infant,Unknown,1
+1045,Maryland,1998,Infant,B,4
+1046,Maryland,1999,Infant,B,2
+1047,Maryland,2000,Infant,B,2
+1048,Maryland,2001,Infant,A,1
+1049,Maryland,2001,Infant,B,3
+1050,Maryland,2001,Other,F,1
+1051,Maryland,2003,Infant,B,1
+1052,Maryland,2004,Infant,A,1
+1053,Maryland,2004,Infant,B,5
+1054,Maryland,2005,Infant,B,5
+1055,Maryland,2006,Infant,B,5
+1056,Maryland,2006,Wound,B,1
+1057,Maryland,2007,Infant,B,1
+1058,Maryland,2008,Infant,B,5
+1059,Maryland,2009,Infant,B,3
+1060,Maryland,2010,Infant,B,4
+1061,Maryland,2011,Infant,B,3
+1062,Maryland,2012,Infant,B,1
+1063,Maryland,2013,Infant,B,8
+1064,Maryland,2014,Infant,B,9
+1065,Maryland,2014,Other,A,1
+1066,Maryland,2015,Infant,A,1
+1067,Maryland,2015,Infant,B,8
+1068,Maryland,2015,Other,A,1
+1069,Maryland,2016,Infant,B,4
+1070,Maryland,2017,Infant,A,1
+1071,Maryland,2017,Infant,B,6
+1072,Maine,1920,Foodborne,Unknown,4
+1073,Maine,2000,Infant,B,1
+1074,Maine,2002,Foodborne,A,2
+1075,Maine,2002,Infant,B,1
+1076,Michigan,1918,Foodborne,Unknown,8
+1077,Michigan,1919,Foodborne,A,14
+1078,Michigan,1921,Foodborne,A,34
+1079,Michigan,1942,Foodborne,Unknown,2
+1080,Michigan,1959,Foodborne,Unknown,4
+1081,Michigan,1960,Foodborne,Unknown,4
+1082,Michigan,1963,Foodborne,E,5
+1083,Michigan,1968,Foodborne,B,2
+1084,Michigan,1968,Foodborne,Unknown,1
+1085,Michigan,1976,Foodborne,B,1
+1086,Michigan,1977,Foodborne,B,59
+1087,Michigan,1978,Foodborne,A,1
+1088,Michigan,1978,Other,A,1
+1089,Michigan,1980,Foodborne,A,2
+1090,Michigan,1983,Foodborne,A,2
+1091,Michigan,1984,Other,A,1
+1092,Michigan,1985,Infant,A,2
+1093,Michigan,1991,Infant,B,2
+1094,Michigan,1997,Infant,A,1
+1095,Michigan,1998,Other,A,1
+1096,Michigan,2002,Infant,A,1
+1097,Michigan,2005,Foodborne,B,1
+1098,Michigan,2009,Wound,A,1
+1099,Michigan,2012,Foodborne,A,2
+1100,Michigan,2012,Infant,B,2
+1101,Michigan,2014,Infant,A,1
+1102,Michigan,2015,Infant,B,1
+1103,Michigan,2016,Infant,B,1
+1104,Minnesota,1937,Foodborne,A,5
+1105,Minnesota,1948,Foodborne,Unknown,1
+1106,Minnesota,1950,Foodborne,Unknown,3
+1107,Minnesota,1960,Foodborne,E,2
+1108,Minnesota,1960,Foodborne,Unknown,2
+1109,Minnesota,1963,Foodborne,E,1
+1110,Minnesota,1976,Foodborne,Unknown,1
+1111,Minnesota,1998,Infant,A,1
+1112,Minnesota,2000,Other,F,1
+1113,Minnesota,2001,Infant,A,2
+1114,Minnesota,2002,Infant,B,2
+1115,Minnesota,2004,Infant,B,1
+1116,Minnesota,2006,Infant,A,1
+1117,Minnesota,2008,Infant,B,1
+1118,Minnesota,2009,Foodborne,A,2
+1119,Minnesota,2010,Infant,B,1
+1120,Minnesota,2011,Infant,B,1
+1121,Minnesota,2014,Infant,B,1
+1122,Minnesota,2015,Infant,B,1
+1123,Minnesota,2015,Wound,A,1
+1124,Minnesota,2016,Infant,B,2
+1125,Missouri,1922,Foodborne,A,1
+1126,Missouri,1924,Foodborne,Unknown,1
+1127,Missouri,1977,Foodborne,A,2
+1128,Missouri,1978,Infant,B,1
+1129,Missouri,1996,Infant,B,1
+1130,Missouri,1998,Infant,B,2
+1131,Missouri,1999,Infant,B,2
+1132,Missouri,2001,Infant,B,1
+1133,Missouri,2002,Infant,B,1
+1134,Missouri,2003,Infant,A,1
+1135,Missouri,2005,Infant,A,1
+1136,Missouri,2008,Infant,B,2
+1137,Missouri,2009,Infant,A,1
+1138,Missouri,2009,Infant,B,1
+1139,Missouri,2012,Infant,B,1
+1140,Missouri,2013,Infant,A,1
+1141,Missouri,2013,Infant,B,1
+1142,Missouri,2014,Infant,B,2
+1143,Mississippi,1941,Foodborne,Unknown,4
+1144,Mississippi,1957,Foodborne,Unknown,16
+1145,Mississippi,1959,Foodborne,Unknown,1
+1146,Mississippi,1973,Foodborne,A,1
+1147,Mississippi,1990,Foodborne,A,1
+1148,Mississippi,1991,Infant,B,1
+1149,Mississippi,1994,Foodborne,B,1
+1150,Mississippi,1994,Infant,B,1
+1151,Mississippi,2003,Infant,B,1
+1152,Mississippi,2010,Foodborne,B,1
+1153,Mississippi,2011,Infant,B,2
+1154,Mississippi,2012,Infant,B,2
+1155,Mississippi,2013,Infant,B,2
+1156,Mississippi,2015,Infant,B,1
+1157,Mississippi,2016,Foodborne,A,18
+1158,Mississippi,2016,Infant,B,5
+1159,Montana,1927,Foodborne,A,4
+1160,Montana,1932,Foodborne,Unknown,5
+1161,Montana,1933,Foodborne,A,3
+1162,Montana,1933,Foodborne,Unknown,4
+1163,Montana,1934,Foodborne,Unknown,2
+1164,Montana,1935,Foodborne,Unknown,2
+1165,Montana,1937,Foodborne,Unknown,1
+1166,Montana,1942,Foodborne,Unknown,1
+1167,Montana,1947,Foodborne,Unknown,1
+1168,Montana,1949,Foodborne,Unknown,1
+1169,Montana,1951,Foodborne,Unknown,3
+1170,Montana,1975,Foodborne,A,1
+1171,Montana,1976,Foodborne,Unknown,1
+1172,Montana,1977,Infant,B,1
+1173,Montana,1981,Foodborne,A,1
+1174,Montana,1983,Infant,B,1
+1175,Montana,1984,Infant,A,1
+1176,Montana,1998,Foodborne,A,1
+1177,Montana,1999,Infant,A,1
+1178,Montana,2000,Infant,A,2
+1179,Montana,2001,Infant,A,1
+1180,Montana,2004,Foodborne,A,1
+1181,Montana,2004,Infant,A,1
+1182,Montana,2005,Other,F,1
+1183,Montana,2006,Infant,A,1
+1184,Montana,2008,Infant,A,3
+1185,Montana,2010,Infant,A,1
+1186,Montana,2014,Infant,A,1
+1187,Montana,2016,Infant,A,1
+1188,Montana,2017,Infant,A,2
+1189,North Carolina,1952,Foodborne,Unknown,1
+1190,North Carolina,1953,Foodborne,Unknown,1
+1191,North Carolina,1958,Foodborne,Unknown,1
+1192,North Carolina,1976,Foodborne,B,1
+1193,North Carolina,1980,Foodborne,B,1
+1194,North Carolina,1980,Infant,B,1
+1195,North Carolina,1983,Infant,A,1
+1196,North Carolina,1988,Foodborne,A,1
+1197,North Carolina,1988,Infant,A,1
+1198,North Carolina,1992,Foodborne,A,1
+1199,North Carolina,1997,Foodborne,A,1
+1200,North Carolina,1997,Infant,A,1
+1201,North Carolina,1998,Infant,A,1
+1202,North Carolina,1998,Infant,B,1
+1203,North Carolina,1999,Infant,B,2
+1204,North Carolina,2000,Other,F,1
+1205,North Carolina,2005,Foodborne,A,1
+1206,North Carolina,2005,Infant,B,1
+1207,North Carolina,2007,Infant,B,1
+1208,North Carolina,2008,Infant,B,1
+1209,North Carolina,2009,Other,F,1
+1210,North Carolina,2010,Infant,B,1
+1211,North Carolina,2011,Infant,B,1
+1212,North Carolina,2012,Infant,B,1
+1213,North Carolina,2015,Foodborne,A,1
+1214,North Carolina,2015,Infant,A,1
+1215,North Carolina,2015,Infant,B,2
+1216,North Carolina,2017,Infant,A,1
+1217,North Dakota,1930,Foodborne,Unknown,4
+1218,North Dakota,1931,Foodborne,A,13
+1219,North Dakota,1935,Foodborne,Unknown,4
+1220,North Dakota,1940,Foodborne,Unknown,4
+1221,North Dakota,1941,Foodborne,Unknown,5
+1222,North Dakota,1964,Foodborne,Unknown,1
+1223,North Dakota,1977,Infant,A,1
+1224,North Dakota,1982,Foodborne,A,1
+1225,North Dakota,1999,Foodborne,A,1
+1226,North Dakota,1999,Infant,A,1
+1227,North Dakota,2015,Infant,A,1
+1228,Nebraska,1919,Foodborne,Unknown,2
+1229,Nebraska,1923,Foodborne,A,3
+1230,Nebraska,1923,Foodborne,B,3
+1231,Nebraska,1931,Foodborne,A,2
+1232,Nebraska,1931,Foodborne,Unknown,2
+1233,Nebraska,1932,Foodborne,Unknown,3
+1234,Nebraska,1935,Foodborne,Unknown,7
+1235,Nebraska,1940,Foodborne,Unknown,1
+1236,Nebraska,1941,Foodborne,Unknown,3
+1237,Nebraska,1942,Foodborne,Unknown,1
+1238,Nebraska,1944,Foodborne,Unknown,5
+1239,Nebraska,1971,Wound,A,1
+1240,Nebraska,1973,Wound,Unknown,1
+1241,Nebraska,1977,Foodborne,A,1
+1242,Nebraska,1979,Foodborne,A,1
+1243,Nebraska,1981,Infant,A,1
+1244,Nebraska,1990,Infant,A,1
+1245,Nebraska,1999,Infant,A,1
+1246,Nebraska,2004,Infant,A,1
+1247,Nebraska,2009,Other,F,1
+1248,Nebraska,2013,Infant,A,1
+1249,Nebraska,2014,Infant,A,1
+1250,Nebraska,2017,Infant,A,1
+1251,Nebraska,2017,Infant,B,1
+1252,New Hampshire,1999,Infant,B,1
+1253,New Hampshire,2004,Infant,B,1
+1254,New Hampshire,2005,Infant,B,1
+1255,New Jersey,1918,Foodborne,Unknown,3
+1256,New Jersey,1923,Foodborne,Unknown,2
+1257,New Jersey,1935,Foodborne,Unknown,5
+1258,New Jersey,1947,Foodborne,Unknown,1
+1259,New Jersey,1948,Foodborne,Unknown,3
+1260,New Jersey,1951,Foodborne,Unknown,12
+1261,New Jersey,1957,Foodborne,Unknown,1
+1262,New Jersey,1962,Foodborne,Unknown,2
+1263,New Jersey,1965,Foodborne,Unknown,1
+1264,New Jersey,1974,Wound,Unknown,1
+1265,New Jersey,1975,Infant,B,1
+1266,New Jersey,1977,Foodborne,Unknown,3
+1267,New Jersey,1978,Infant,B,1
+1268,New Jersey,1979,Infant,B,1
+1269,New Jersey,1980,Infant,B,2
+1270,New Jersey,1981,Infant,B,1
+1271,New Jersey,1985,Infant,B,3
+1272,New Jersey,1986,Infant,B,1
+1273,New Jersey,1987,Infant,B,1
+1274,New Jersey,1988,Infant,B,5
+1275,New Jersey,1988,Infant,Unknown,1
+1276,New Jersey,1989,Foodborne,Unknown,2
+1277,New Jersey,1989,Infant,B,1
+1278,New Jersey,1990,Infant,B,2
+1279,New Jersey,1991,Infant,B,2
+1280,New Jersey,1991,Other,B,1
+1281,New Jersey,1992,Foodborne,E,3
+1282,New Jersey,1992,Infant,B,2
+1283,New Jersey,1993,Infant,B,2
+1284,New Jersey,1994,Infant,B,2
+1285,New Jersey,1995,Infant,B,5
+1286,New Jersey,1996,Infant,B,8
+1287,New Jersey,1997,Infant,A,1
+1288,New Jersey,1997,Infant,B,2
+1289,New Jersey,1998,Foodborne,A,1
+1290,New Jersey,1998,Infant,B,9
+1291,New Jersey,1999,Infant,B,14
+1292,New Jersey,2000,Foodborne,A,2
+1293,New Jersey,2000,Foodborne,E,4
+1294,New Jersey,2000,Infant,B,11
+1295,New Jersey,2001,Infant,B,6
+1296,New Jersey,2002,Infant,B,3
+1297,New Jersey,2003,Infant,B,5
+1298,New Jersey,2004,Foodborne,E,1
+1299,New Jersey,2004,Infant,B,1
+1300,New Jersey,2005,Foodborne,E,2
+1301,New Jersey,2005,Infant,A,1
+1302,New Jersey,2005,Infant,B,8
+1303,New Jersey,2006,Infant,B,7
+1304,New Jersey,2007,Foodborne,B,1
+1305,New Jersey,2007,Infant,A,1
+1306,New Jersey,2007,Infant,B,9
+1307,New Jersey,2008,Infant,B,3
+1308,New Jersey,2009,Infant,B,11
+1309,New Jersey,2010,Infant,A,1
+1310,New Jersey,2010,Infant,B,5
+1311,New Jersey,2011,Infant,A,2
+1312,New Jersey,2011,Infant,B,9
+1313,New Jersey,2012,Foodborne,A,1
+1314,New Jersey,2012,Infant,B,6
+1315,New Jersey,2013,Infant,B,4
+1316,New Jersey,2014,Infant,B,10
+1317,New Jersey,2015,Infant,A,2
+1318,New Jersey,2015,Infant,B,4
+1319,New Jersey,2016,Infant,B,10
+1320,New Jersey,2016,Wound,A,1
+1321,New Jersey,2017,Infant,B,7
+1322,New Mexico,1931,Foodborne,Unknown,2
+1323,New Mexico,1932,Foodborne,B,4
+1324,New Mexico,1932,Foodborne,Unknown,2
+1325,New Mexico,1934,Foodborne,Unknown,5
+1326,New Mexico,1935,Foodborne,A,4
+1327,New Mexico,1937,Foodborne,A,14
+1328,New Mexico,1937,Foodborne,Unknown,2
+1329,New Mexico,1938,Foodborne,A,2
+1330,New Mexico,1938,Foodborne,Unknown,1
+1331,New Mexico,1939,Foodborne,Unknown,1
+1332,New Mexico,1941,Foodborne,Unknown,2
+1333,New Mexico,1942,Foodborne,A,1
+1334,New Mexico,1942,Foodborne,Unknown,1
+1335,New Mexico,1943,Foodborne,A,4
+1336,New Mexico,1943,Foodborne,Unknown,1
+1337,New Mexico,1944,Foodborne,Unknown,3
+1338,New Mexico,1946,Foodborne,A,7
+1339,New Mexico,1947,Foodborne,A,6
+1340,New Mexico,1948,Foodborne,A,9
+1341,New Mexico,1950,Foodborne,Unknown,1
+1342,New Mexico,1952,Foodborne,Unknown,1
+1343,New Mexico,1955,Foodborne,A,4
+1344,New Mexico,1955,Foodborne,Unknown,1
+1345,New Mexico,1957,Foodborne,Unknown,1
+1346,New Mexico,1962,Foodborne,A,3
+1347,New Mexico,1976,Foodborne,Unknown,1
+1348,New Mexico,1978,Foodborne,A,33
+1349,New Mexico,1978,Infant,A,2
+1350,New Mexico,1979,Infant,F,1
+1351,New Mexico,1980,Infant,A,2
+1352,New Mexico,1980,Infant,BF,1
+1353,New Mexico,1981,Infant,B,1
+1354,New Mexico,1983,Infant,A,1
+1355,New Mexico,1984,Infant,B,1
+1356,New Mexico,1986,Infant,A,2
+1357,New Mexico,1989,Foodborne,A,2
+1358,New Mexico,1989,Infant,A,2
+1359,New Mexico,1992,Infant,A,1
+1360,New Mexico,1992,Infant,B,1
+1361,New Mexico,1995,Infant,A,1
+1362,New Mexico,1996,Foodborne,A,1
+1363,New Mexico,1996,Wound,A,1
+1364,New Mexico,1997,Foodborne,B,1
+1365,New Mexico,1997,Infant,A,1
+1366,New Mexico,1997,Wound,A,2
+1367,New Mexico,1999,Infant,A,1
+1368,New Mexico,2000,Infant,A,3
+1369,New Mexico,2001,Wound,A,2
+1370,New Mexico,2002,Infant,A,1
+1371,New Mexico,2003,Infant,A,1
+1372,New Mexico,2005,Infant,B,1
+1373,New Mexico,2006,Infant,A,1
+1374,New Mexico,2007,Foodborne,A,1
+1375,New Mexico,2007,Infant,A,2
+1376,New Mexico,2008,Infant,A,2
+1377,New Mexico,2009,Other,A,1
+1378,New Mexico,2010,Foodborne,A,1
+1379,New Mexico,2010,Infant,A,1
+1380,New Mexico,2011,Infant,A,1
+1381,New Mexico,2011,Infant,B,1
+1382,New Mexico,2012,Infant,A,2
+1383,New Mexico,2013,Infant,A,3
+1384,New Mexico,2015,Foodborne,A,2
+1385,New Mexico,2015,Infant,A,1
+1386,New Mexico,2015,Infant,B,1
+1387,New Mexico,2016,Wound,A,3
+1388,New Mexico,2017,Wound,A,1
+1389,Nevada,1944,Foodborne,Unknown,2
+1390,Nevada,1945,Foodborne,Unknown,1
+1391,Nevada,1954,Foodborne,Unknown,3
+1392,Nevada,1974,Foodborne,A,3
+1393,Nevada,1977,Infant,A,1
+1394,Nevada,1980,Infant,B,1
+1395,Nevada,1985,Foodborne,A,2
+1396,Nevada,1988,Infant,A,1
+1397,Nevada,1989,Infant,A,1
+1398,Nevada,1991,Infant,B,1
+1399,Nevada,1995,Infant,A,1
+1400,Nevada,1996,Foodborne,A,1
+1401,Nevada,1997,Infant,A,1
+1402,Nevada,1998,Infant,A,1
+1403,Nevada,1998,Infant,B,1
+1404,Nevada,1999,Infant,A,1
+1405,Nevada,2000,Infant,A,1
+1406,Nevada,2000,Infant,B,1
+1407,Nevada,2001,Infant,A,1
+1408,Nevada,2003,Infant,A,2
+1409,Nevada,2005,Infant,A,1
+1410,Nevada,2006,Foodborne,A,2
+1411,Nevada,2006,Infant,A,1
+1412,Nevada,2006,Infant,Ba,1
+1413,Nevada,2009,Infant,A,1
+1414,Nevada,2011,Infant,A,1
+1415,Nevada,2013,Infant,A,1
+1416,Nevada,2014,Infant,A,1
+1417,New York,1914,Foodborne,B,3
+1418,New York,1917,Foodborne,Unknown,7
+1419,New York,1918,Foodborne,Unknown,1
+1420,New York,1919,Foodborne,Unknown,7
+1421,New York,1920,Foodborne,Unknown,3
+1422,New York,1922,Foodborne,Unknown,2
+1423,New York,1923,Foodborne,B,1
+1424,New York,1925,Foodborne,Unknown,1
+1425,New York,1928,Foodborne,B,12
+1426,New York,1929,Foodborne,Unknown,1
+1427,New York,1931,Foodborne,Unknown,5
+1428,New York,1932,Foodborne,E,3
+1429,New York,1933,Foodborne,Unknown,1
+1430,New York,1934,Foodborne,E,3
+1431,New York,1939,Foodborne,Unknown,7
+1432,New York,1940,Foodborne,Unknown,1
+1433,New York,1943,Foodborne,B,3
+1434,New York,1944,Foodborne,B,3
+1435,New York,1945,Foodborne,Unknown,1
+1436,New York,1949,Foodborne,Unknown,4
+1437,New York,1956,Foodborne,B,1
+1438,New York,1956,Foodborne,Unknown,1
+1439,New York,1963,Foodborne,A,2
+1440,New York,1966,Foodborne,B,1
+1441,New York,1967,Foodborne,B,2
+1442,New York,1971,Foodborne,A,4
+1443,New York,1974,Foodborne,B,3
+1444,New York,1975,Foodborne,E,1
+1445,New York,1977,Infant,B,1
+1446,New York,1978,Other,A,1
+1447,New York,1978,Other,B,1
+1448,New York,1979,Infant,B,1
+1449,New York,1979,Other,B,1
+1450,New York,1980,Foodborne,B,2
+1451,New York,1981,Wound,B,1
+1452,New York,1982,Foodborne,B,1
+1453,New York,1982,Infant,B,2
+1454,New York,1983,Infant,A,1
+1455,New York,1986,Infant,B,1
+1456,New York,1987,Foodborne,E,2
+1457,New York,1987,Infant,B,1
+1458,New York,1989,Foodborne,A,3
+1459,New York,1990,Infant,B,2
+1460,New York,1991,Infant,Unknown,1
+1461,New York,1994,Foodborne,A,1
+1462,New York,1995,Infant,B,1
+1463,New York,1996,Infant,B,2
+1464,New York,1997,Infant,A,2
+1465,New York,1997,Infant,B,2
+1466,New York,1998,Infant,A,1
+1467,New York,1998,Infant,B,2
+1468,New York,1999,Foodborne,A,1
+1469,New York,1999,Infant,B,1
+1470,New York,2000,Foodborne,A,1
+1471,New York,2000,Infant,B,2
+1472,New York,2001,Infant,A,1
+1473,New York,2001,Infant,B,1
+1474,New York,2003,Infant,B,4
+1475,New York,2004,Infant,B,1
+1476,New York,2006,Infant,B,1
+1477,New York,2007,Infant,B,4
+1478,New York,2007,Other,F,1
+1479,New York,2008,Infant,A,1
+1480,New York,2009,Infant,A,1
+1481,New York,2009,Infant,B,1
+1482,New York,2010,Infant,B,1
+1483,New York,2011,Infant,B,1
+1484,New York,2011,Other,A,1
+1485,New York,2012,Infant,A,1
+1486,New York,2012,Infant,B,3
+1487,New York,2012,Other,A,1
+1488,New York,2013,Infant,B,1
+1489,New York,2014,Foodborne,A,2
+1490,New York,2014,Infant,B,3
+1491,New York,2015,Infant,A,1
+1492,New York,2015,Infant,B,3
+1493,New York,2016,Infant,A,1
+1494,New York,2016,Infant,B,4
+1495,New York,2016,Infant,Ba,1
+1496,New York,2017,Infant,A,1
+1497,New York,2017,Infant,B,4
+1498,,1998,Infant,B,1
+1499,,2001,Infant,B,4
+1500,,2002,Infant,B,4
+1501,,2003,Infant,B,1
+1502,,2005,Infant,B,4
+1503,,2006,Infant,B,2
+1504,,2006,Wound,B,1
+1505,,2007,Other,F,1
+1506,,2008,Infant,B,1
+1507,,2010,Infant,B,2
+1508,,2011,Foodborne,A,1
+1509,,2011,Infant,A,1
+1510,,2011,Infant,B,2
+1511,,2012,Foodborne,B,1
+1512,,2012,Infant,A,1
+1513,,2012,Infant,B,3
+1514,,2013,Infant,B,3
+1515,,2014,Infant,B,2
+1516,Ohio,1919,Foodborne,A,14
+1517,Ohio,1922,Foodborne,Unknown,10
+1518,Ohio,1933,Foodborne,Unknown,3
+1519,Ohio,1951,Foodborne,Unknown,1
+1520,Ohio,1953,Foodborne,Unknown,1
+1521,Ohio,1954,Foodborne,Unknown,1
+1522,Ohio,1957,Foodborne,Unknown,1
+1523,Ohio,1972,Foodborne,Unknown,4
+1524,Ohio,1974,Foodborne,A,1
+1525,Ohio,1976,Foodborne,A,1
+1526,Ohio,1976,Foodborne,B,1
+1527,Ohio,1980,Infant,B,3
+1528,Ohio,1981,Foodborne,A,1
+1529,Ohio,1981,Infant,B,1
+1530,Ohio,1982,Infant,B,1
+1531,Ohio,1983,Infant,B,1
+1532,Ohio,1986,Infant,B,1
+1533,Ohio,1987,Foodborne,B,1
+1534,Ohio,1987,Infant,B,1
+1535,Ohio,1988,Infant,A,1
+1536,Ohio,1989,Infant,A,1
+1537,Ohio,1989,Infant,B,3
+1538,Ohio,1990,Infant,B,3
+1539,Ohio,1991,Infant,A,1
+1540,Ohio,1992,Infant,A,1
+1541,Ohio,1992,Infant,B,1
+1542,Ohio,1993,Infant,A,2
+1543,Ohio,1993,Infant,B,4
+1544,Ohio,1994,Foodborne,A,1
+1545,Ohio,1994,Infant,A,2
+1546,Ohio,1994,Infant,B,5
+1547,Ohio,1995,Infant,B,1
+1548,Ohio,1996,Infant,A,1
+1549,Ohio,1997,Infant,B,3
+1550,Ohio,1998,Infant,B,1
+1551,Ohio,1998,Infant,F,1
+1552,Ohio,1999,Infant,B,1
+1553,Ohio,2000,Foodborne,A,4
+1554,Ohio,2000,Infant,A,1
+1555,Ohio,2000,Infant,B,4
+1556,Ohio,2001,Infant,B,4
+1557,Ohio,2002,Infant,B,4
+1558,Ohio,2004,Foodborne,A,1
+1559,Ohio,2004,Infant,B,2
+1560,Ohio,2006,Infant,B,2
+1561,Ohio,2007,Foodborne,A,3
+1562,Ohio,2007,Infant,B,1
+1563,Ohio,2008,Foodborne,A,4
+1564,Ohio,2008,Infant,B,1
+1565,Ohio,2009,Foodborne,B,1
+1566,Ohio,2009,Infant,B,5
+1567,Ohio,2010,Infant,B,2
+1568,Ohio,2011,Foodborne,A,1
+1569,Ohio,2011,Infant,B,1
+1570,Ohio,2012,Foodborne,A,1
+1571,Ohio,2012,Infant,B,4
+1572,Ohio,2012,Infant,F,1
+1573,Ohio,2012,Other,A,1
+1574,Ohio,2013,Infant,B,4
+1575,Ohio,2013,Infant,E,1
+1576,Ohio,2014,Foodborne,B,2
+1577,Ohio,2014,Infant,B,3
+1578,Ohio,2015,Foodborne,A,27
+1579,Ohio,2015,Infant,A,1
+1580,Ohio,2015,Infant,B,4
+1581,Ohio,2015,Wound,B,1
+1582,Ohio,2016,Infant,A,1
+1583,Ohio,2016,Infant,B,6
+1584,Ohio,2016,Infant,F,1
+1585,Ohio,2017,Infant,B,3
+1586,Oklahoma,1935,Foodborne,Unknown,2
+1587,Oklahoma,1949,Foodborne,Unknown,1
+1588,Oklahoma,1953,Foodborne,Unknown,1
+1589,Oklahoma,1956,Foodborne,Unknown,1
+1590,Oklahoma,1958,Foodborne,Unknown,1
+1591,Oklahoma,1972,Foodborne,Unknown,1
+1592,Oklahoma,1976,Foodborne,Unknown,7
+1593,Oklahoma,1979,Other,A,1
+1594,Oklahoma,1984,Foodborne,A,1
+1595,Oklahoma,1984,Infant,A,1
+1596,Oklahoma,1985,Foodborne,A,1
+1597,Oklahoma,1986,Infant,A,1
+1598,Oklahoma,1991,Infant,A,1
+1599,Oklahoma,1992,Infant,B,1
+1600,Oklahoma,1994,Foodborne,A,1
+1601,Oklahoma,1994,Infant,B,1
+1602,Oklahoma,1999,Infant,A,1
+1603,Oklahoma,2001,Infant,B,1
+1604,Oklahoma,2002,Infant,A,1
+1605,Oklahoma,2005,Foodborne,A,1
+1606,Oklahoma,2005,Infant,A,1
+1607,Oklahoma,2010,Infant,A,1
+1608,Oklahoma,2010,Infant,B,1
+1609,Oklahoma,2011,Foodborne,F,1
+1610,Oklahoma,2012,Infant,A,1
+1611,Oklahoma,2013,Infant,A,1
+1612,Oklahoma,2015,Infant,A,2
+1613,Oklahoma,2016,Foodborne,A,2
+1614,Oregon,1915,Foodborne,A,1
+1615,Oregon,1917,Foodborne,Unknown,1
+1616,Oregon,1923,Foodborne,Unknown,1
+1617,Oregon,1924,Foodborne,A,12
+1618,Oregon,1924,Foodborne,Unknown,1
+1619,Oregon,1929,Foodborne,A,3
+1620,Oregon,1931,Foodborne,Unknown,4
+1621,Oregon,1934,Foodborne,Unknown,3
+1622,Oregon,1935,Foodborne,Unknown,10
+1623,Oregon,1939,Foodborne,A,2
+1624,Oregon,1940,Foodborne,A,3
+1625,Oregon,1940,Foodborne,Unknown,1
+1626,Oregon,1941,Foodborne,A,3
+1627,Oregon,1947,Foodborne,A,2
+1628,Oregon,1948,Foodborne,Unknown,3
+1629,Oregon,1952,Foodborne,A,2
+1630,Oregon,1954,Foodborne,A,1
+1631,Oregon,1969,Foodborne,A,1
+1632,Oregon,1970,Foodborne,Unknown,4
+1633,Oregon,1973,Foodborne,A,2
+1634,Oregon,1974,Foodborne,A,1
+1635,Oregon,1975,Foodborne,A,1
+1636,Oregon,1976,Foodborne,Unknown,1
+1637,Oregon,1977,Foodborne,B,3
+1638,Oregon,1977,Infant,A,1
+1639,Oregon,1978,Other,A,1
+1640,Oregon,1980,Foodborne,A,1
+1641,Oregon,1980,Infant,A,3
+1642,Oregon,1981,Foodborne,A,2
+1643,Oregon,1981,Infant,A,1
+1644,Oregon,1982,Foodborne,A,3
+1645,Oregon,1982,Infant,B,1
+1646,Oregon,1984,Infant,A,2
+1647,Oregon,1985,Foodborne,B,2
+1648,Oregon,1985,Infant,A,1
+1649,Oregon,1986,Foodborne,A,1
+1650,Oregon,1986,Infant,A,1
+1651,Oregon,1987,Foodborne,A,2
+1652,Oregon,1987,Foodborne,Unknown,1
+1653,Oregon,1987,Infant,A,2
+1654,Oregon,1987,Wound,B,1
+1655,Oregon,1988,Foodborne,A,6
+1656,Oregon,1988,Infant,Unknown,1
+1657,Oregon,1988,Other,A,1
+1658,Oregon,1989,Foodborne,A,1
+1659,Oregon,1989,Infant,A,1
+1660,Oregon,1989,Infant,B,2
+1661,Oregon,1990,Foodborne,A,2
+1662,Oregon,1990,Infant,A,1
+1663,Oregon,1990,Infant,B,1
+1664,Oregon,1991,Foodborne,A,1
+1665,Oregon,1991,Infant,A,3
+1666,Oregon,1991,Infant,B,1
+1667,Oregon,1992,Infant,A,1
+1668,Oregon,1993,Infant,A,1
+1669,Oregon,1994,Infant,A,2
+1670,Oregon,1994,Infant,B,1
+1671,Oregon,1995,Wound,A,1
+1672,Oregon,1996,Infant,A,1
+1673,Oregon,1996,Infant,B,1
+1674,Oregon,1997,Foodborne,A,2
+1675,Oregon,1997,Foodborne,B,1
+1676,Oregon,1997,Infant,A,1
+1677,Oregon,1998,Infant,A,2
+1678,Oregon,1999,Infant,A,3
+1679,Oregon,1999,Wound,A,1
+1680,Oregon,2000,Infant,B,1
+1681,Oregon,2001,Infant,A,2
+1682,Oregon,2001,Wound,A,1
+1683,Oregon,2002,Foodborne,A,1
+1684,Oregon,2002,Infant,A,2
+1685,Oregon,2002,Other,A,1
+1686,Oregon,2003,Infant,A,3
+1687,Oregon,2003,Wound,A,1
+1688,Oregon,2004,Foodborne,A,4
+1689,Oregon,2004,Infant,B,1
+1690,Oregon,2004,Wound,B,1
+1691,Oregon,2005,Infant,A,2
+1692,Oregon,2007,Foodborne,A,1
+1693,Oregon,2008,Infant,A,1
+1694,Oregon,2008,Infant,B,1
+1695,Oregon,2010,Infant,A,1
+1696,Oregon,2011,Foodborne,A,1
+1697,Oregon,2011,Infant,A,2
+1698,Oregon,2012,Foodborne,A,3
+1699,Oregon,2012,Infant,A,3
+1700,Oregon,2013,Foodborne,A,1
+1701,Oregon,2013,Infant,A,3
+1702,Oregon,2014,Foodborne,A,1
+1703,Oregon,2015,Infant,A,3
+1704,Oregon,2016,Foodborne,E,1
+1705,Oregon,2016,Infant,A,1
+1706,Oregon,2016,Infant,Ab,1
+1707,Oregon,2017,Infant,A,3
+1708,Oregon,2017,Infant,B,1
+1709,Pennsylvania,1920,Foodborne,Unknown,4
+1710,Pennsylvania,1921,Foodborne,A,5
+1711,Pennsylvania,1932,Foodborne,Unknown,1
+1712,Pennsylvania,1941,Foodborne,Unknown,3
+1713,Pennsylvania,1943,Wound,A,1
+1714,Pennsylvania,1955,Foodborne,Unknown,2
+1715,Pennsylvania,1963,Foodborne,B,3
+1716,Pennsylvania,1971,Foodborne,B,3
+1717,Pennsylvania,1972,Wound,Unknown,1
+1718,Pennsylvania,1973,Foodborne,B,1
+1719,Pennsylvania,1974,Foodborne,A,1
+1720,Pennsylvania,1976,Infant,B,1
+1721,Pennsylvania,1977,Infant,A,1
+1722,Pennsylvania,1977,Infant,B,3
+1723,Pennsylvania,1978,Foodborne,A,2
+1724,Pennsylvania,1978,Infant,B,5
+1725,Pennsylvania,1979,Infant,B,4
+1726,Pennsylvania,1980,Infant,B,9
+1727,Pennsylvania,1981,Infant,B,11
+1728,Pennsylvania,1981,Wound,B,1
+1729,Pennsylvania,1982,Infant,B,3
+1730,Pennsylvania,1983,Foodborne,B,1
+1731,Pennsylvania,1983,Infant,B,14
+1732,Pennsylvania,1984,Infant,A,2
+1733,Pennsylvania,1984,Infant,B,10
+1734,Pennsylvania,1985,Infant,B,6
+1735,Pennsylvania,1986,Infant,A,1
+1736,Pennsylvania,1986,Infant,B,7
+1737,Pennsylvania,1987,Infant,B,8
+1738,Pennsylvania,1988,Infant,B,10
+1739,Pennsylvania,1989,Foodborne,Unknown,2
+1740,Pennsylvania,1989,Infant,B,8
+1741,Pennsylvania,1990,Infant,B,8
+1742,Pennsylvania,1991,Infant,A,1
+1743,Pennsylvania,1991,Infant,B,7
+1744,Pennsylvania,1992,Infant,B,5
+1745,Pennsylvania,1993,Infant,B,9
+1746,Pennsylvania,1994,Infant,B,13
+1747,Pennsylvania,1995,Infant,B,11
+1748,Pennsylvania,1996,Infant,B,9
+1749,Pennsylvania,1997,Infant,B,15
+1750,Pennsylvania,1998,Foodborne,A,2
+1751,Pennsylvania,1998,Infant,B,11
+1752,Pennsylvania,1999,Infant,B,15
+1753,Pennsylvania,2000,Infant,B,8
+1754,Pennsylvania,2000,Other,A,1
+1755,Pennsylvania,2001,Infant,B,13
+1756,Pennsylvania,2002,Foodborne,B,1
+1757,Pennsylvania,2002,Infant,B,16
+1758,Pennsylvania,2003,Infant,B,15
+1759,Pennsylvania,2004,Infant,A,1
+1760,Pennsylvania,2004,Infant,B,14
+1761,Pennsylvania,2005,Foodborne,A,1
+1762,Pennsylvania,2005,Infant,B,11
+1763,Pennsylvania,2006,Infant,B,11
+1764,Pennsylvania,2007,Infant,B,13
+1765,Pennsylvania,2008,Infant,A,1
+1766,Pennsylvania,2008,Infant,B,15
+1767,Pennsylvania,2009,Infant,B,10
+1768,Pennsylvania,2010,Infant,B,16
+1769,Pennsylvania,2011,Infant,B,13
+1770,Pennsylvania,2012,Infant,B,21
+1771,Pennsylvania,2012,Other,B,1
+1772,Pennsylvania,2013,Infant,A,1
+1773,Pennsylvania,2013,Infant,B,18
+1774,Pennsylvania,2013,Wound,B,1
+1775,Pennsylvania,2014,Infant,B,8
+1776,Pennsylvania,2015,Infant,B,21
+1777,Pennsylvania,2016,Infant,B,16
+1778,Pennsylvania,2017,Infant,B,11
+1779,,1978,Foodborne,A,3
+1780,Rhode Island,1974,Foodborne,B,1
+1781,Rhode Island,2008,Infant,B,1
+1782,Rhode Island,2015,Infant,B,1
+1783,Rhode Island,2016,Infant,B,1
+1784,South Carolina,1997,Other,F,1
+1785,South Carolina,1999,Infant,B,1
+1786,South Carolina,2000,Infant,A,1
+1787,South Carolina,2002,Foodborne,B,1
+1788,South Carolina,2004,Infant,A,1
+1789,South Carolina,2007,Infant,A,1
+1790,South Carolina,2008,Infant,B,1
+1791,South Dakota,1936,Foodborne,A,4
+1792,South Dakota,1946,Foodborne,Unknown,2
+1793,South Dakota,1992,Infant,A,1
+1794,South Dakota,1999,Infant,A,1
+1795,South Dakota,2000,Infant,A,1
+1796,Tennessee,1920,Foodborne,A,7
+1797,Tennessee,1932,Foodborne,Unknown,9
+1798,Tennessee,1933,Foodborne,Unknown,3
+1799,Tennessee,1937,Foodborne,Unknown,1
+1800,Tennessee,1939,Foodborne,B,2
+1801,Tennessee,1940,Foodborne,B,2
+1802,Tennessee,1944,Foodborne,Unknown,3
+1803,Tennessee,1945,Foodborne,Unknown,2
+1804,Tennessee,1946,Foodborne,Unknown,1
+1805,Tennessee,1947,Foodborne,Unknown,1
+1806,Tennessee,1948,Foodborne,Unknown,1
+1807,Tennessee,1949,Foodborne,Unknown,1
+1808,Tennessee,1950,Foodborne,Unknown,4
+1809,Tennessee,1957,Foodborne,Unknown,1
+1810,Tennessee,1962,Foodborne,Unknown,3
+1811,Tennessee,1963,Foodborne,E,12
+1812,Tennessee,1968,Foodborne,Unknown,1
+1813,Tennessee,1976,Foodborne,B,1
+1814,Tennessee,1976,Infant,B,1
+1815,Tennessee,1977,Foodborne,A,1
+1816,Tennessee,1978,Other,A,1
+1817,Tennessee,1983,Infant,B,3
+1818,Tennessee,1984,Infant,B,2
+1819,Tennessee,1985,Wound,B,1
+1820,Tennessee,1986,Foodborne,B,2
+1821,Tennessee,1986,Infant,A,1
+1822,Tennessee,1986,Infant,B,2
+1823,Tennessee,1987,Foodborne,A,1
+1824,Tennessee,1987,Infant,B,1
+1825,Tennessee,1989,Foodborne,B,1
+1826,Tennessee,1989,Infant,B,3
+1827,Tennessee,1990,Foodborne,B,1
+1828,Tennessee,1990,Infant,B,1
+1829,Tennessee,1991,Infant,B,2
+1830,Tennessee,1992,Infant,A,1
+1831,Tennessee,1993,Infant,A,1
+1832,Tennessee,1993,Infant,B,2
+1833,Tennessee,1994,Infant,B,3
+1834,Tennessee,1995,Infant,B,2
+1835,Tennessee,1996,Foodborne,A,1
+1836,Tennessee,1998,Infant,Unknown,1
+1837,Tennessee,1999,Infant,A,1
+1838,Tennessee,1999,Infant,B,2
+1839,Tennessee,2000,Infant,B,2
+1840,Tennessee,2001,Infant,A,1
+1841,Tennessee,2001,Infant,B,3
+1842,Tennessee,2002,Infant,A,1
+1843,Tennessee,2002,Infant,B,2
+1844,Tennessee,2003,Infant,B,2
+1845,Tennessee,2004,Infant,B,1
+1846,Tennessee,2006,Infant,B,1
+1847,Tennessee,2007,Foodborne,A,1
+1848,Tennessee,2007,Infant,B,1
+1849,Tennessee,2008,Infant,B,1
+1850,Tennessee,2009,Infant,B,1
+1851,Tennessee,2011,Infant,B,3
+1852,Tennessee,2012,Infant,B,1
+1853,Tennessee,2013,Infant,B,2
+1854,Tennessee,2014,Infant,B,1
+1855,Tennessee,2015,Infant,B,3
+1856,Tennessee,2016,Infant,B,2
+1857,Tennessee,2017,Infant,B,5
+1858,Texas,1921,Foodborne,Unknown,6
+1859,Texas,1932,Foodborne,Unknown,2
+1860,Texas,1952,Foodborne,Unknown,1
+1861,Texas,1969,Foodborne,A,1
+1862,Texas,1974,Foodborne,B,1
+1863,Texas,1974,Wound,B,1
+1864,Texas,1976,Infant,B,1
+1865,Texas,1977,Foodborne,A,1
+1866,Texas,1978,Foodborne,A,3
+1867,Texas,1978,Foodborne,B,2
+1868,Texas,1978,Other,A,1
+1869,Texas,1979,Infant,B,1
+1870,Texas,1979,Wound,A,1
+1871,Texas,1981,Infant,A,2
+1872,Texas,1981,Infant,B,1
+1873,Texas,1982,Infant,B,1
+1874,Texas,1983,Infant,A,2
+1875,Texas,1983,Other,Unknown,1
+1876,Texas,1984,Infant,A,3
+1877,Texas,1984,Infant,B,3
+1878,Texas,1984,Other,A,1
+1879,Texas,1984,Other,B,1
+1880,Texas,1984,Wound,A,1
+1881,Texas,1985,Infant,A,4
+1882,Texas,1986,Foodborne,B,1
+1883,Texas,1986,Infant,A,2
+1884,Texas,1986,Infant,B,2
+1885,Texas,1987,Infant,A,1
+1886,Texas,1987,Infant,B,3
+1887,Texas,1988,Foodborne,A,1
+1888,Texas,1988,Infant,A,1
+1889,Texas,1988,Infant,B,2
+1890,Texas,1989,Infant,B,4
+1891,Texas,1990,Infant,A,3
+1892,Texas,1990,Infant,B,4
+1893,Texas,1991,Infant,A,1
+1894,Texas,1991,Infant,B,3
+1895,Texas,1992,Infant,A,3
+1896,Texas,1992,Infant,B,1
+1897,Texas,1993,Infant,A,1
+1898,Texas,1993,Infant,B,1
+1899,Texas,1994,Foodborne,A,17
+1900,Texas,1994,Infant,A,1
+1901,Texas,1994,Infant,B,2
+1902,Texas,1995,Infant,A,3
+1903,Texas,1996,Foodborne,A,2
+1904,Texas,1996,Infant,A,3
+1905,Texas,1996,Infant,B,4
+1906,Texas,1997,Foodborne,A,1
+1907,Texas,1997,Infant,A,2
+1908,Texas,1997,Infant,B,7
+1909,Texas,1998,Infant,A,2
+1910,Texas,1998,Infant,AB,1
+1911,Texas,1998,Infant,B,1
+1912,Texas,1998,Infant,F,1
+1913,Texas,1998,Infant,Unknown,1
+1914,Texas,1999,Infant,A,1
+1915,Texas,1999,Infant,B,3
+1916,Texas,2000,Infant,A,4
+1917,Texas,2000,Infant,B,4
+1918,Texas,2001,Foodborne,A,16
+1919,Texas,2001,Infant,A,3
+1920,Texas,2001,Infant,B,1
+1921,Texas,2002,Foodborne,A,1
+1922,Texas,2002,Other,F,1
+1923,Texas,2003,Infant,B,1
+1924,Texas,2003,Other,A,1
+1925,Texas,2003,Other,B,1
+1926,Texas,2004,Infant,A,3
+1927,Texas,2004,Wound,A,1
+1928,Texas,2005,Infant,A,1
+1929,Texas,2005,Other,A,1
+1930,Texas,2006,Infant,A,3
+1931,Texas,2006,Infant,B,2
+1932,Texas,2006,Wound,A,1
+1933,Texas,2007,Foodborne,A,3
+1934,Texas,2007,Infant,A,2
+1935,Texas,2007,Infant,B,2
+1936,Texas,2008,Infant,A,4
+1937,Texas,2008,Infant,B,3
+1938,Texas,2008,Infant,Bf,1
+1939,Texas,2008,Wound,A,1
+1940,Texas,2009,Infant,A,1
+1941,Texas,2009,Infant,B,3
+1942,Texas,2010,Infant,A,5
+1943,Texas,2010,Infant,B,3
+1944,Texas,2011,Infant,A,4
+1945,Texas,2011,Wound,A,1
+1946,Texas,2012,Infant,A,1
+1947,Texas,2013,Infant,A,5
+1948,Texas,2013,Infant,B,2
+1949,Texas,2013,Wound,A,3
+1950,Texas,2014,Infant,A,1
+1951,Texas,2014,Infant,B,5
+1952,Texas,2014,Infant,Bf,1
+1953,Texas,2014,Wound,A,1
+1954,Texas,2015,Infant,A,3
+1955,Texas,2015,Infant,B,2
+1956,Texas,2015,Infant,Bf,2
+1957,Texas,2015,Wound,A,1
+1958,Texas,2016,Foodborne,B,1
+1959,Texas,2016,Infant,A,3
+1960,Texas,2016,Infant,B,3
+1961,Texas,2016,Infant,Bf,1
+1962,Texas,2016,Wound,ABE,1
+1963,Texas,2017,Infant,A,2
+1964,Texas,2017,Infant,B,7
+1965,Utah,1916,Foodborne,Unknown,1
+1966,Utah,1938,Foodborne,A,1
+1967,Utah,1945,Foodborne,A,7
+1968,Utah,1946,Foodborne,A,2
+1969,Utah,1947,Foodborne,Unknown,3
+1970,Utah,1973,Foodborne,A,4
+1971,Utah,1974,Foodborne,A,1
+1972,Utah,1977,Infant,A,3
+1973,Utah,1977,Infant,B,1
+1974,Utah,1978,Infant,A,8
+1975,Utah,1978,Infant,Unknown,1
+1976,Utah,1979,Infant,A,2
+1977,Utah,1979,Infant,B,1
+1978,Utah,1980,Infant,A,4
+1979,Utah,1981,Foodborne,A,1
+1980,Utah,1981,Infant,A,1
+1981,Utah,1982,Foodborne,A,1
+1982,Utah,1982,Infant,A,4
+1983,Utah,1982,Infant,B,1
+1984,Utah,1983,Foodborne,A,1
+1985,Utah,1983,Infant,A,2
+1986,Utah,1984,Infant,A,2
+1987,Utah,1985,Foodborne,A,1
+1988,Utah,1986,Foodborne,A,1
+1989,Utah,1986,Infant,A,7
+1990,Utah,1987,Infant,A,3
+1991,Utah,1988,Foodborne,A,1
+1992,Utah,1988,Infant,A,2
+1993,Utah,1989,Infant,A,1
+1994,Utah,1990,Infant,A,1
+1995,Utah,1991,Infant,A,1
+1996,Utah,1992,Infant,A,3
+1997,Utah,1993,Foodborne,B,1
+1998,Utah,1994,Infant,A,3
+1999,Utah,1995,Foodborne,F,1
+2000,Utah,1995,Infant,A,1
+2001,Utah,1995,Infant,B,1
+2002,Utah,1996,Infant,A,2
+2003,Utah,1997,Infant,A,2
+2004,Utah,1998,Infant,A,1
+2005,Utah,1999,Infant,A,3
+2006,Utah,2000,Infant,A,6
+2007,Utah,2000,Infant,B,2
+2008,Utah,2001,Infant,A,3
+2009,Utah,2001,Infant,B,1
+2010,Utah,2002,Infant,A,3
+2011,Utah,2003,Foodborne,A,2
+2012,Utah,2003,Infant,A,6
+2013,Utah,2004,Infant,A,2
+2014,Utah,2005,Infant,A,3
+2015,Utah,2006,Infant,A,3
+2016,Utah,2007,Infant,A,2
+2017,Utah,2008,Infant,A,6
+2018,Utah,2009,Infant,A,2
+2019,Utah,2010,Infant,A,1
+2020,Utah,2011,Foodborne,A,8
+2021,Utah,2011,Infant,A,3
+2022,Utah,2011,Infant,B,1
+2023,Utah,2012,Infant,A,7
+2024,Utah,2012,Infant,B,2
+2025,Utah,2013,Infant,A,2
+2026,Utah,2014,Infant,A,5
+2027,Utah,2014,Infant,B,1
+2028,Utah,2015,Foodborne,A,2
+2029,Utah,2015,Infant,A,5
+2030,Utah,2016,Infant,A,5
+2031,Utah,2016,Wound,A,1
+2032,Utah,2017,Infant,A,1
+2033,Virginia,1933,Foodborne,Unknown,2
+2034,Virginia,1941,Foodborne,B,5
+2035,Virginia,1950,Foodborne,Unknown,1
+2036,Virginia,1976,Foodborne,B,1
+2037,Virginia,1978,Foodborne,B,1
+2038,Virginia,1983,Infant,B,1
+2039,Virginia,1984,Infant,B,1
+2040,Virginia,1986,Infant,B,1
+2041,Virginia,1988,Infant,A,1
+2042,Virginia,1989,Infant,B,1
+2043,Virginia,1989,Infant,Unknown,1
+2044,Virginia,1991,Infant,Unknown,1
+2045,Virginia,1994,Infant,B,1
+2046,Virginia,1994,Infant,Unknown,1
+2047,Virginia,1995,Foodborne,F,1
+2048,Virginia,1995,Infant,A,1
+2049,Virginia,1995,Infant,B,3
+2050,Virginia,1996,Infant,B,3
+2051,Virginia,1998,Foodborne,A,1
+2052,Virginia,1999,Infant,B,4
+2053,Virginia,2000,Infant,B,2
+2054,Virginia,2001,Infant,B,4
+2055,Virginia,2002,Foodborne,A,1
+2056,Virginia,2002,Infant,B,3
+2057,Virginia,2003,Infant,B,1
+2058,Virginia,2004,Infant,A,1
+2059,Virginia,2004,Infant,B,3
+2060,Virginia,2005,Infant,B,1
+2061,Virginia,2007,Foodborne,A,1
+2062,Virginia,2008,Infant,B,2
+2063,Virginia,2009,Infant,B,3
+2064,Virginia,2010,Infant,B,1
+2065,Virginia,2011,Infant,A,1
+2066,Virginia,2011,Infant,B,1
+2067,Virginia,2012,Infant,A,1
+2068,Virginia,2012,Infant,F,1
+2069,Virginia,2013,Infant,B,3
+2070,Virginia,2014,Infant,B,1
+2071,Virginia,2015,Infant,B,3
+2072,Virginia,2016,Infant,A,1
+2073,Virginia,2016,Infant,B,4
+2074,Virginia,2017,Infant,B,3
+2075,Vermont,1989,Infant,A,1
+2076,Vermont,2008,Infant,B,1
+2077,Vermont,2014,Infant,A,1
+2078,Washington,1910,Foodborne,Unknown,6
+2079,Washington,1913,Foodborne,Unknown,2
+2080,Washington,1914,Foodborne,Unknown,2
+2081,Washington,1916,Foodborne,Unknown,1
+2082,Washington,1917,Foodborne,A,3
+2083,Washington,1917,Foodborne,Unknown,1
+2084,Washington,1918,Foodborne,Unknown,1
+2085,Washington,1919,Foodborne,Unknown,7
+2086,Washington,1920,Foodborne,Unknown,4
+2087,Washington,1921,Foodborne,A,4
+2088,Washington,1921,Foodborne,Unknown,4
+2089,Washington,1922,Foodborne,A,4
+2090,Washington,1922,Foodborne,Unknown,16
+2091,Washington,1924,Foodborne,A,2
+2092,Washington,1925,Foodborne,A,4
+2093,Washington,1926,Foodborne,A,1
+2094,Washington,1928,Foodborne,Unknown,2
+2095,Washington,1931,Foodborne,Unknown,4
+2096,Washington,1932,Foodborne,A,2
+2097,Washington,1932,Foodborne,Unknown,1
+2098,Washington,1933,Foodborne,Unknown,5
+2099,Washington,1934,Foodborne,Unknown,1
+2100,Washington,1935,Foodborne,Unknown,5
+2101,Washington,1938,Foodborne,Unknown,9
+2102,Washington,1939,Foodborne,B,16
+2103,Washington,1940,Foodborne,Unknown,4
+2104,Washington,1942,Foodborne,Unknown,1
+2105,Washington,1943,Foodborne,Unknown,2
+2106,Washington,1944,Foodborne,A,8
+2107,Washington,1944,Foodborne,Unknown,2
+2108,Washington,1946,Foodborne,Unknown,1
+2109,Washington,1947,Foodborne,A,3
+2110,Washington,1947,Foodborne,Unknown,7
+2111,Washington,1951,Foodborne,A,3
+2112,Washington,1952,Foodborne,Unknown,2
+2113,Washington,1953,Foodborne,Unknown,1
+2114,Washington,1954,Foodborne,Unknown,2
+2115,Washington,1957,Foodborne,Unknown,5
+2116,Washington,1958,Foodborne,Unknown,1
+2117,Washington,1959,Foodborne,Unknown,2
+2118,Washington,1961,Foodborne,E,4
+2119,Washington,1961,Foodborne,Unknown,4
+2120,Washington,1964,Foodborne,Unknown,4
+2121,Washington,1965,Foodborne,Unknown,6
+2122,Washington,1969,Foodborne,Unknown,1
+2123,Washington,1971,Foodborne,Unknown,2
+2124,Washington,1973,Foodborne,A,1
+2125,Washington,1973,Foodborne,E,5
+2126,Washington,1974,Foodborne,A,2
+2127,Washington,1975,Foodborne,A,3
+2128,Washington,1976,Foodborne,A,3
+2129,Washington,1976,Foodborne,Unknown,1
+2130,Washington,1976,Wound,A,1
+2131,Washington,1977,Infant,A,2
+2132,Washington,1978,Infant,A,1
+2133,Washington,1979,Foodborne,A,2
+2134,Washington,1979,Infant,A,2
+2135,Washington,1979,Wound,A,1
+2136,Washington,1980,Foodborne,A,2
+2137,Washington,1980,Infant,A,2
+2138,Washington,1980,Infant,B,1
+2139,Washington,1980,Wound,A,1
+2140,Washington,1982,Foodborne,A,3
+2141,Washington,1982,Foodborne,B,1
+2142,Washington,1982,Infant,A,1
+2143,Washington,1983,Foodborne,A,2
+2144,Washington,1983,Infant,A,6
+2145,Washington,1984,Foodborne,A,3
+2146,Washington,1984,Infant,A,2
+2147,Washington,1984,Infant,B,5
+2148,Washington,1985,Foodborne,A,4
+2149,Washington,1985,Foodborne,B,2
+2150,Washington,1985,Infant,A,4
+2151,Washington,1986,Foodborne,A,2
+2152,Washington,1986,Infant,A,4
+2153,Washington,1986,Infant,Unknown,1
+2154,Washington,1987,Foodborne,A,1
+2155,Washington,1987,Infant,A,2
+2156,Washington,1987,Wound,A,1
+2157,Washington,1988,Foodborne,A,3
+2158,Washington,1988,Infant,A,3
+2159,Washington,1989,Foodborne,A,10
+2160,Washington,1990,Foodborne,A,1
+2161,Washington,1991,Infant,A,3
+2162,Washington,1992,Infant,A,2
+2163,Washington,1992,Infant,F,1
+2164,Washington,1993,Foodborne,A,4
+2165,Washington,1993,Infant,A,1
+2166,Washington,1994,Foodborne,A,2
+2167,Washington,1994,Infant,A,2
+2168,Washington,1995,Foodborne,A,4
+2169,Washington,1995,Infant,A,2
+2170,Washington,1996,Foodborne,A,2
+2171,Washington,1996,Wound,A,2
+2172,Washington,1997,Infant,A,1
+2173,Washington,1997,Wound,A,2
+2174,Washington,1998,Foodborne,A,2
+2175,Washington,1998,Infant,A,4
+2176,Washington,1999,Foodborne,A,2
+2177,Washington,1999,Infant,A,4
+2178,Washington,1999,Wound,A,1
+2179,Washington,2000,Foodborne,A,1
+2180,Washington,2000,Infant,A,4
+2181,Washington,2001,Foodborne,A,1
+2182,Washington,2001,Infant,A,5
+2183,Washington,2001,Infant,B,1
+2184,Washington,2002,Infant,A,1
+2185,Washington,2002,Other,A,2
+2186,Washington,2002,Wound,A,4
+2187,Washington,2003,Foodborne,A,1
+2188,Washington,2003,Infant,A,2
+2189,Washington,2003,Infant,B,1
+2190,Washington,2003,Wound,A,7
+2191,Washington,2004,Infant,A,1
+2192,Washington,2004,Infant,B,1
+2193,Washington,2004,Other,F,1
+2194,Washington,2004,Wound,A,5
+2195,Washington,2005,Infant,A,2
+2196,Washington,2005,Wound,A,4
+2197,Washington,2006,Infant,A,9
+2198,Washington,2006,Wound,B,1
+2199,Washington,2007,Foodborne,A,1
+2200,Washington,2007,Infant,A,1
+2201,Washington,2007,Wound,A,2
+2202,Washington,2008,Infant,A,1
+2203,Washington,2008,Wound,A,2
+2204,Washington,2009,Foodborne,A,4
+2205,Washington,2009,Infant,A,2
+2206,Washington,2009,Wound,A,4
+2207,Washington,2010,Infant,A,2
+2208,Washington,2010,Infant,B,1
+2209,Washington,2010,Wound,A,1
+2210,Washington,2011,Infant,A,3
+2211,Washington,2011,Wound,A,2
+2212,Washington,2012,Infant,A,4
+2213,Washington,2012,Wound,A,1
+2214,Washington,2013,Infant,A,4
+2215,Washington,2014,Infant,A,3
+2216,Washington,2015,Infant,A,6
+2217,Washington,2016,Foodborne,A,2
+2218,Washington,2016,Infant,A,1
+2219,Washington,2017,Infant,A,5
+2220,Washington,2017,Wound,A,1
+2221,Wisconsin,1919,Foodborne,Unknown,3
+2222,Wisconsin,1929,Foodborne,Unknown,2
+2223,Wisconsin,1939,Foodborne,Unknown,1
+2224,Wisconsin,1976,Foodborne,A,1
+2225,Wisconsin,1977,Infant,B,1
+2226,Wisconsin,1978,Foodborne,B,1
+2227,Wisconsin,1980,Foodborne,A,2
+2228,Wisconsin,1981,Infant,A,1
+2229,Wisconsin,1982,Foodborne,A,1
+2230,Wisconsin,1984,Foodborne,Unknown,1
+2231,Wisconsin,1987,Foodborne,A,1
+2232,Wisconsin,1989,Infant,F,1
+2233,Wisconsin,1991,Foodborne,B,1
+2234,Wisconsin,1995,Infant,B,1
+2235,Wisconsin,1997,Infant,A,2
+2236,Wisconsin,1997,Infant,B,1
+2237,Wisconsin,1998,Infant,B,1
+2238,Wisconsin,1999,Infant,A,1
+2239,Wisconsin,2000,Other,A,1
+2240,Wisconsin,2007,Foodborne,A,1
+2241,Wisconsin,2009,Infant,B,1
+2242,Wisconsin,2014,Infant,B,1
+2243,West Virginia,1940,Foodborne,Unknown,3
+2244,West Virginia,1963,Foodborne,B,1
+2245,West Virginia,1972,Wound,Unknown,1
+2246,West Virginia,1973,Foodborne,B,6
+2247,West Virginia,1981,Infant,B,2
+2248,West Virginia,1982,Foodborne,B,1
+2249,West Virginia,1984,Infant,B,1
+2250,West Virginia,1991,Infant,B,1
+2251,West Virginia,1997,Infant,A,1
+2252,West Virginia,1997,Infant,B,1
+2253,West Virginia,2001,Infant,B,1
+2254,West Virginia,2004,Infant,B,2
+2255,West Virginia,2006,Infant,B,1
+2256,West Virginia,2007,Infant,A,1
+2257,West Virginia,2008,Foodborne,A,1
+2258,West Virginia,2008,Infant,B,1
+2259,West Virginia,2010,Infant,A,1
+2260,West Virginia,2010,Infant,B,2
+2261,West Virginia,2013,Infant,B,1
+2262,West Virginia,2015,Infant,B,1
+2263,West Virginia,2016,Infant,B,2
+2264,Wyoming,1924,Foodborne,A,7
+2265,Wyoming,1925,Foodborne,B,4
+2266,Wyoming,1926,Foodborne,Unknown,3
+2267,Wyoming,1929,Foodborne,A,6
+2268,Wyoming,1936,Foodborne,A,3
+2269,Wyoming,1936,Foodborne,Unknown,5
+2270,Wyoming,1975,Foodborne,A,1
+2271,Wyoming,1982,Foodborne,A,1
+2272,Wyoming,1984,Infant,A,1
+2273,Wyoming,1986,Wound,Unknown,1
+2274,Wyoming,1990,Foodborne,A,1
+2275,Wyoming,2006,Infant,A,1
+2276,Wyoming,2008,Infant,A,1
+2277,Wyoming,2012,Infant,A,2
+2278,Wyoming,2015,Infant,A,1
+2279,Wyoming,2016,Infant,A,1
