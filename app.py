@@ -17,7 +17,7 @@ app = Flask(__name__)
 # Database Setup
 #################################################
 
-engine = create_engine("sqlite:///data/BOTULISM.db")
+engine = create_engine("sqlite:///Project2/data/BOTULISM.db")
 
 Base = automap_base()
 Base.prepare(engine, reflect=True)
@@ -47,7 +47,7 @@ def all():
                                 bot_data.BotType,
                                 bot_data.ToxinType,
                                 bot_data.record_count,
-                                bot_data.BotID).all()
+                                bot_data.BotId).all()
 
     session.close()
 
