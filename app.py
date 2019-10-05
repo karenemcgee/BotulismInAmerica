@@ -9,7 +9,6 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 from flask import Flask, jsonify, render_template
-from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
@@ -18,7 +17,7 @@ app = Flask(__name__)
 # Database Setup
 #################################################
 
-engine = create_engine("sqlite:///Project2/data/BOTULISM.db")
+engine = create_engine("sqlite:///data/BOTULISM.db")
 
 Base = automap_base()
 Base.prepare(engine, reflect=True)
