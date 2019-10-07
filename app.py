@@ -47,7 +47,7 @@ def all():
                                 bot_data.BotType,
                                 bot_data.ToxinType,
                                 bot_data.record_count,
-                                bot_data.BotID).all()
+                                bot_data.BotId).all()
 
     session.close()
 
@@ -142,6 +142,44 @@ def record_years():
 
 
     return jsonify(years)
+
+
+@app.route("/stacey")
+#Route retuns json of all records in dataset
+def f_stacey():
+    session = Session(engine)
+
+    all_results = session.query(bot_data.state_name, 
+                                bot_data.record_year, 
+                                bot_data.BotType,
+                                bot_data.ToxinType,
+                                bot_data.record_count,
+                                bot_data.BotId).all()
+
+    session.close()
+
+    all_records = []
+
+    for state, year, botType, toxType, count, botID in all_results:
+        results_dict = {}
+        results_dict["state"] = state
+        results_dict["year"] = year
+        results_dict["botType"] = botType
+        results_dict["toxType"] = toxType
+        results_dict["count"] = count
+        results_dict["botID"] = botID
+        all_records.append(results_dict)
+
+    
+    df = pd.DataFrame(all_records)
+    table = pd.pivot_table(df, values='count', index=['toxType'], columns=['botType'], aggfunc=np.sum).fillna(0).to_json()
+
+    return jsonify(table)
+
+  
+
+
+
 
 
 if __name__ == "__main__":

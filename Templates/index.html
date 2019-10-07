@@ -72,15 +72,18 @@
           
         <div class="col-md-2" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
             <div class="well">
-                <h5>SELECT Toxin:</h5>
-                    <select id="toxinSelect" onchange="optionChanged(this.value)"></select>
+                <h5>Botulism Types</h5>
+                    <button class="btn btn-outline-secondary" onclick="update('Foodborne')">Foodborne</button><p></p>
+                    <button class="btn btn-outline-secondary" onclick="update('Infant')">Infant</button><p></p>
+                    <button class="btn btn-outline-secondary" onclick="update('Wound')">Wound</button><p></p>
+                   <!---<select id="botSelect" onchange="optionChanged(this.value)"></select>-->
             </div>
         </div>
         <div class="col-sm-10" style="padding-bottom: 40px;"> 
             <div class="row" >
                     <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-                        <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Stacey's Area</h3> 
-                        <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
+                        <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Number of Cases by Botulism and Toxin Types</h3> 
+                        <p id = "staceytext" style="padding-top: 10px; background-color: white; margin-bottom: 0px;"></p>
                         <div id="stacey"></div>
                     </div>
             </div>  
@@ -121,6 +124,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="{{ url_for('static', filename='app.js') }}"></script>
+    <script type="text/javascript" src="static/stacey.js"></script>
+
 
 </body>
 
