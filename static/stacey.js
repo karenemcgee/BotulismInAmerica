@@ -60,7 +60,7 @@ function update(selectedVar) {
         .attr("y", function(d) { return y(d[selectedVar]); })
         .attr("width", x.bandwidth())
         .attr("height", function(d) { return height - y(d[selectedVar]); })
-        .attr("fill", "#ba0769")
+        .attr("fill", "#094f0c")
   })
 
 }
