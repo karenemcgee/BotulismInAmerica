@@ -35,6 +35,41 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
+@app.route("/data")
+def datatable():
+    """Return the data page."""
+    return render_template("data.html")
+
+@app.route("/cleanup")
+def cleanup():
+    """Return the data cleanup page."""
+    return render_template("cleanup.html")
+
+@app.route("/about")
+def about():
+    """Return the about page."""
+    return render_template("about.html")
+
+@app.route("/botulism")
+def botulism():
+    """Return the botulism page."""
+    return render_template("botulism.html")
+
+@app.route("/history")
+def history():
+    """Return the history page."""
+    return render_template("history.html")
+
+@app.route("/types")
+def types():
+    """Return the history page."""
+    return render_template("types.html")
+
+@app.route("/safety")
+def safety():
+    """Return the history page."""
+    return render_template("safety.html")
+
 
 @app.route("/allresults")
 #Route retuns json of all records in dataset
@@ -175,9 +210,6 @@ def f_stacey():
     table = pd.pivot_table(df, values='count', index=['toxType'], columns=['botType'], aggfunc=np.sum).fillna(0).to_json()
 
     return jsonify(table)
-
-  
-
 
 
 

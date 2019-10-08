@@ -13,12 +13,14 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
 </head>
   
 
 <body style="background-image: url({{url_for('static', filename='images/botulism-1.jpg')}})"> <!--"background-color:rgb(255, 192, 158)"> -->
-  <!--NAVBAR-->
-  <nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light" style="padding-bottom: 0px; padding-top: 0px;border-bottom-style:dotted; border-color:black; border-bottom-width: 4px;">
+   <!--NAVBAR-->
+   <nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light" style="padding-bottom: 0px; padding-top: 0px;border-bottom-style:dotted; border-color:black; border-bottom-width: 4px;">
         <a class="navbar-brand" style="padding-bottom: 0px; padding-top: 0px;" href="https://andreamorgan.github.io/"><h2 style="width: fluid; height: fluid;background-color:rgb(255, 192, 158);
         margin-bottom: 0px; padding-bottom: 20px; padding-top: 20px; padding-left: 5px; padding-right: 5px;">Botulism In America</h2></a>
         <button class="navbar-toggler" style="float:left" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,7 +55,6 @@
             </ul>
         </div>
     </nav>
-
   <!--GRID FOR CONTENTS ON PAGE-->
   <div class="container" style="max-width:95%; padding-bottom:10%; padding-top: 150px;">
     
@@ -63,58 +64,27 @@
           <div class="col-sm-12" style="padding-bottom: 40px;"> 
               <div class="row" >
                       <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-                          <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Karen's Area</h3> 
-                          <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
-                      </div>
+                          <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >About This Project</h3> 
+                          
+                          
+
+                          <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">
+                          
+                            Here's a bunch of information about the project and our approach
+
+    </p>
+
+
+                      
               </div>                        
           </div>
 
+
+
       </div>
 
-      <div class="row" style="padding-top: 40px; padding-bottom: 40px;">
-
-          <!--Side menu container with dropdown-->
-          
-        <div class="col-md-2" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-            <div class="well">
-                <h5>Botulism Types</h5>
-                    <button class="btn btn-outline-secondary" onclick="update('Foodborne')">Foodborne</button><p></p>
-                    <button class="btn btn-outline-secondary" onclick="update('Infant')">Infant</button><p></p>
-                    <button class="btn btn-outline-secondary" onclick="update('Wound')">Wound</button><p></p>
-                   <!---<select id="botSelect" onchange="optionChanged(this.value)"></select>-->
-            </div>
-        </div>
-        <div class="col-sm-10" style="padding-bottom: 40px;"> 
-            <div class="row" >
-                    <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-                        <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Number of Cases by Botulism and Toxin Types</h3> 
-                        <p id = "staceytext" style="padding-top: 10px; background-color: white; margin-bottom: 0px;"></p>
-                        <div id="stacey"></div>
-                    </div>
-            </div>  
-        </div>                      
-        </div>
-        <div class="row" style="padding-top: 40px; padding-bottom: 40px;">
-
-            <!--Side menu container with dropdown-->
+     
             
-          <div class="col-md-2" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-              <div class="well">
-                  <h5>SELECT State:</h5>
-                      <select id="stateSelect" onchange="optionChanged(this.value)"></select>
-              </div>
-          </div>
-          <div class="col-sm-10" style="padding-bottom: 40px;"> 
-              <div class="row" >
-                      <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-                          <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Andrea's Area</h3> 
-                          <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
-                          <div id="andrea"></div>
-                      </div>
-              </div>                        
-          </div>
-        
-      </div>
   </div>
 
 <!--FOOTER-->
@@ -126,10 +96,10 @@
 </body>
 
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="{{ url_for('static', filename='app.js') }}"></script>
-    <script type="text/javascript" src="static/stacey.js"></script>
+  
 
 
 </body>
