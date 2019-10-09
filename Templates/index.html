@@ -74,7 +74,15 @@
                       <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
                           <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Karen's Area</h3> 
                           <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
-                          <div id ="karen"><object type="image/svg+xml" data="/static/chart.svg"></object></div>
+                          <div id ="karen">
+                            <div id="observablehq-bd154230"></div>
+                            <script type="module">
+                            import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+                            import define from "https://api.observablehq.com/@karenemcgee/zoomable-circle-packing.js?v=3";
+                            const inspect = Inspector.into("#observablehq-bd154230");
+                            (new Runtime).module(define, name => (name === "chart") && inspect());
+                            </script>
+                          </div>
                       </div>
               </div>                        
           </div>
