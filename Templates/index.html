@@ -13,10 +13,13 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  
+
 </head>
   
 
-<body style="background-image: url({{url_for('static', filename='images/botulism-1.jpg')}})"> <!--"background-color:rgb(255, 192, 158)"> -->
+<body style="background-image: url({{url_for('static', filename='images/botulism-1.jpg')}})">
   <!--NAVBAR-->
   <nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light" style="padding-bottom: 0px; padding-top: 0px;border-bottom-style:dotted; border-color:black; border-bottom-width: 4px;">
         <a class="navbar-brand" style="padding-bottom: 0px; padding-top: 0px;" href="https://andreamorgan.github.io/"><h2 style="width: fluid; height: fluid;background-color:rgb(255, 192, 158);
@@ -60,8 +63,8 @@
 
   <!--GRID FOR CONTENTS ON PAGE-->
   <div class="container" style="max-width:95%; padding-top: 150px;">
-    <p style="margin-bottom: 0px; margin-left: -60px; margin-right: -60px; background-color:rgba(63, 63, 63, 0.5); text-indent: 45px; font-size:7vw; font-weight: bold; -webkit-text-fill-color: rgb(243, 243, 243); -webkit-text-stroke-width: 3px; -webkit-text-stroke-color:rgb(0, 0, 0);">  Think twice about that</p>
-    <p style="margin-left: -60px; margin-right: -60px; background-color:rgba(63, 63, 63, 0.5); text-indent: 45px; font-size:7vw; font-weight: bold; -webkit-text-fill-color: rgb(243, 243, 243); -webkit-text-stroke-width: 3px; -webkit-text-stroke-color:rgb(0, 0, 0);">  bulging can ;)</p>
+    <p style="margin-bottom: 0px; margin-left: -60px; margin-right: -60px; background-color:rgba(209, 208, 208, 0.7); text-indent: 45px; font-size:6vw; font-weight: bold; -webkit-text-fill-color: rgb(243, 243, 243); -webkit-text-stroke-width: 3px; -webkit-text-stroke-color:rgb(0, 0, 0);">  Think twice about that</p>
+    <p style="margin-left: -60px; margin-right: -60px; background-color:rgba(209, 208, 208, 0.7); text-indent: 45px; font-size:6vw; font-weight: bold; -webkit-text-fill-color: rgb(243, 243, 243); -webkit-text-stroke-width: 3px; -webkit-text-stroke-color:rgb(0,0,0);">  bulging can ;)</p>
       <div class="row">
 
           <!--Larger container for main content on page -->
@@ -70,7 +73,15 @@
                       <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
                           <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Karen's Area</h3> 
                           <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
-                          <div id ="karen"><object type="image/svg+xml" data="/static/chart.svg"></object></div>
+                          <div id ="karen">
+                            <div id="observablehq-bd154230"></div>
+                            <script type="module">
+                            import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+                            import define from "https://api.observablehq.com/@karenemcgee/zoomable-circle-packing.js?v=3";
+                            const inspect = Inspector.into("#observablehq-bd154230");
+                            (new Runtime).module(define, name => (name === "chart") && inspect());
+                            </script>
+                          </div>
                       </div>
               </div>                        
           </div>
@@ -100,32 +111,31 @@
             </div>  
         </div>                      
         </div>
-        <div class="row" style="padding-top: 40px; padding-bottom: 40px;">
 
-            <!--Side menu container with dropdown-->
-            
-          <div class="col-md-2" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-              <div class="well">
-                  <h5>SELECT State:</h5>
-                      <select id="stateSelect" onchange="optionChanged(this.value)"></select>
-              </div>
-          </div>
-          <div class="col-sm-10" style="padding-bottom: 40px;"> 
-              <div class="row" >
-                      <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
-                          <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >Andrea's Area</h3> 
-                          <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here</p>
-                          <div id="andrea"></div>
-                      </div>
-              </div>                        
-          </div>
-        
-      </div>
-      <div class="row" style="padding-top: 40px; padding-bottom: 40px;">
 
-        <!--Side menu container with dropdown-->
+        <div class="row" style="padding-top: 40px;">            
+          <div class="col-md-12" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
+                <h3 class="border-bottom" style="background-color: white; padding-bottom:40px;" >State Detail:  <br><br>Number of Cases by Botulism Types, Toxin Types Over Time</h3> 
+                <p style="padding-top: 10px; background-color: white; margin-bottom: 0px;">Insert any description here<br><br></p>
+                <div class="well">
+                    <h5>SELECT State:</h5>
+                    <select id="stateSelect" onchange="stateChange(this.value)"></select>
+                </div>  
+          </div>
+        </div>
+
         
-      
+        <div class="row" style="padding-bottom: 40px">
+            <div class="col-sm" style="background-color:white; padding-bottom: 40px;">
+                <div id="stateBot"></div>
+            </div>
+            <div class="col-sm" style="background-color:white; padding-bottom: 40px;">
+                <div id="stateTox"></div>
+            </div>                        
+        </div>
+        
+     
+      <div class="row" style="padding-bottom: 40px;" >
       <div class="col-sm-12"> 
           <div class="row" >
                   <div class="col-sm" style="background-color:white; padding-top: 40px; padding-bottom: 40px;">
@@ -149,7 +159,7 @@
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="{{ url_for('static', filename='app.js') }}"></script>
+  <script src="{{ url_for('static', filename='app_states.js') }}"></script>
     <script type="text/javascript" src="static/stacey.js"></script>
 
 
