@@ -32,7 +32,7 @@ function buildStateCharts(state) {
             y: foodborne,
             mode: 'markers',
             marker: {
-                color: 'DarkOliveGreen'
+                color: 'OliveDrab'
             },
             name: 'Foodborne',
             type: 'scatter'
@@ -43,7 +43,7 @@ function buildStateCharts(state) {
             y: infant,
             mode: 'markers',
             marker: {
-                color: 'Gray'
+                color: 'LightSalmon'
             },
             name: 'Infant',
             type: 'scatter'
@@ -54,7 +54,7 @@ function buildStateCharts(state) {
             y: wound,
             mode: 'markers',
             marker: {
-                color: 'LightSalmon'
+                color: 'Gray'
             },
             name: 'Wound',
             type: 'scatter'
