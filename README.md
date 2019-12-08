@@ -8,7 +8,7 @@ After initial exploration, analysis, and cleanup of the raw data using Jupyter N
 
 This first visualization is a dynamic bar chart that shows the total number of cases of botulism since 1897 broken down by botulism type (select one: foodborne, infant, or wound) and toxin type. 
 
-
+![Chart1](https://github.com/karenemcgee/BotulismInAmerica/blob/master/static/Images/Chart1.png)
 
 In addition to the data visualizations, this web page also provides:
 * A full view of all of the raw data
