@@ -1,6 +1,6 @@
 # A Look at Botulism Through History
 
-This project uses historical data from the Centers for Disease Control and Prevention (https://www.cdc.gov/botulism/index.html) to explore and analyze trends in Botulism in the United States since 1897. 
+This project uses historical data from the Centers for Disease Control and Prevention (https://www.cdc.gov/botulism/index.html) to explore trends in Botulism in the United States since 1897. 
 
 After initial exploration, analysis, and cleanup of the raw data using Jupyter Notebook, all of the data was pulled into a SQLite database due to the overall portability and easy accessibility of SQLite via Flask app. In Flask, we created multiple routes to serve up each of the JSONs needed for our analysis. We used D3, Plotly, and Observable to create dynamic visualizations into which we fed the JSON and CSV data. To style our HTML, we used a free Bootstrap theme called Lux, customized to fit our needs.
 
