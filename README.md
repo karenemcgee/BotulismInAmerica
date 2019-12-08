@@ -13,7 +13,7 @@ In addition to the data visualizations, this web page also provides:
 
 This first visualization is a dynamic bar chart that shows the total number of cases of botulism since 1897 broken down by botulism type (select one: foodborne, infant, or wound) and toxin type. 
 
-![ToxinDetail](static/Images/ToxinDetail.png)
+![ToxinDetail](static/Images/ToxinDetails.png)
 
 ### TYPES OF BOTULISM BY STATE AND YEAR
 
