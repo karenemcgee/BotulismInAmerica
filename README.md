@@ -13,19 +13,19 @@ In addition to the data visualizations, this web page also provides:
 
 This first visualization is a dynamic bar chart that shows the total number of cases of botulism since 1897 broken down by botulism type (select one: foodborne, infant, or wound) and toxin type. 
 
-![ToxinDetail](https://github.com/karenemcgee/BotulismInAmerica/static/Images/ToxinDetail.png)
+![ToxinDetail](static/Images/ToxinDetail.png)
 
 ### TYPES OF BOTULISM BY STATE AND YEAR
 
 Using D3 and Observable, this dynamic visualization displays the number of cases of each type of botulism by state and by year. It allows the user to drill down into the data and explore how the number of cases varies across type, state, and year. The largest circles (light green) represent the types of botulism: foodborne, infant, wound, or other. The next larges circles (dark green) represent each state. The smallest circles (white) represent the years. The size of each circle is equal to the number of cases that circle represents.
 
-![D3Chart](https://github.com/karenemcgee/BotulismInAmerica/static/Images/D3Chart.png)
+![D3Chart](static/Images/D3Chart.png)
 
 ### STATE DETAIL: NUMBER OF CASES BY BOTULISM TYPES, TOXIN TYPES OVER TIME
 
 These final visualizations let the user drill down into the data by state to discover how many cases there were of each botulism type and each toxin type over the years. You can see the breakdown of the number of cases for each type by hovering over each year on the charts.
 
-![StateDetail](https://github.com/karenemcgee/BotulismInAmerica/static/Images/StateDetail.png)
+![StateDetail](static/Images/StateDetail.png)
 
 ## Deployment
 1. Clone this repository, making sure all file structures remain the same
