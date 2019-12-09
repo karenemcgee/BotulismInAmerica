@@ -31,3 +31,4 @@ These final visualizations let the user drill down into the data by state to dis
 1. Clone this repository, making sure all file structures remain the same
 2. Run the Flask app to activate LocalHost
 3. Open your LocalHost server to view the data
+ 
